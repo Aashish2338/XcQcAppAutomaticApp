@@ -452,6 +452,10 @@
         "source": "E:\\XctracoverAndroidProject\\XcQcAppAutomaticLatestApp\\app\\src\\main\\res\\drawable\\power_key.png"
     },
     {
+        "merged": "E:\\XctracoverAndroidProject\\XcQcAppAutomaticLatestApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_tester_name.xml.flat",
+        "source": "E:\\XctracoverAndroidProject\\XcQcAppAutomaticLatestApp\\app\\src\\main\\res\\layout\\activity_add_tester_name.xml"
+    },
+    {
         "merged": "E:\\XctracoverAndroidProject\\XcQcAppAutomaticLatestApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "E:\\XctracoverAndroidProject\\XcQcAppAutomaticLatestApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },

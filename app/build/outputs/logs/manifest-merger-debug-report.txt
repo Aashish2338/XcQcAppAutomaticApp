@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:363:9-371:20
+INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:366:9-374:20
 	android:grantUriPermissions
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:367:13-47
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:370:13-47
 	android:authorities
 		INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:365:13-64
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:368:13-64
 	android:exported
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:366:13-37
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:369:13-37
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:364:13-62
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:367:13-62
 manifest
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-374:12
-INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-374:12
-INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-374:12
-INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-374:12
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-377:12
+INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-377:12
+INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-377:12
+INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-377:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\aashi\.gradle\caches\transforms-3\c8d26e525e43f3fbecd18e8b3c71374d\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\aashi\.gradle\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\aashi\.gradle\caches\transforms-3\20422eeb9b0d6730d6abd9feed89680b\transformed\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
@@ -72,37 +72,29 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\aashi\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\78aa7a3e878a0fad11aa8ac6ba540a8d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\fba5bc5fba61732c0925c2efa98b006a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\aashi\.gradle\caches\transforms-3\2d239d6a3b165f234e588104d93b0bc4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-374:12
-INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-374:12
-INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-374:12
+INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-377:12
+INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-377:12
+INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-377:12
 	package
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:4:5-33
 		INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml
 		INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-374:12
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-377:12
 		INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-374:12
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:1-377:12
 		INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:2:11-69
-queries
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:6:5-10:15
-intent#action:name:android.speech.RecognitionService
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:7:9-9:18
-action#android.speech.RecognitionService
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:8:13-72
-	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:8:21-69
 uses-sdk
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:12:5-14:41
-INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:12:5-14:41
-INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:12:5-14:41
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\aashi\.gradle\caches\transforms-3\c8d26e525e43f3fbecd18e8b3c71374d\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\aashi\.gradle\caches\transforms-3\c8d26e525e43f3fbecd18e8b3c71374d\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\aashi\.gradle\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
@@ -217,16 +209,24 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\aashi\.gradle\caches\transform
 MERGED from [androidx.print:print:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\fba5bc5fba61732c0925c2efa98b006a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\aashi\.gradle\caches\transforms-3\2d239d6a3b165f234e588104d93b0bc4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\aashi\.gradle\caches\transforms-3\2d239d6a3b165f234e588104d93b0bc4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:12:5-14:41
-INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:6:5-8:41
 	android:targetSdkVersion
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:14:9-38
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:8:9-38
 		INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml
 		INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:7:9-35
 		INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml
 		INJECTED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml
+queries
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:10:5-14:15
+intent#action:name:android.speech.RecognitionService
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:11:9-13:18
+action#android.speech.RecognitionService
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:12:13-72
+	android:name
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:12:21-69
 supports-screens
 ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:16:5-22:40
 	android:largeScreens
@@ -574,7 +574,7 @@ ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\An
 	android:name
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:142:9-44
 application
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:145:5-372:19
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:145:5-375:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\aashi\.gradle\caches\transforms-3\c8d26e525e43f3fbecd18e8b3c71374d\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\aashi\.gradle\caches\transforms-3\c8d26e525e43f3fbecd18e8b3c71374d\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\aashi\.gradle\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -641,416 +641,422 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\aashi\.gradle\cach
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:157:9-61
 	android:usesCleartextTraffic
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:156:9-44
-activity#com.xtracover.xcqc.Activities.GradingActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:159:9-162:52
-	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:162:13-49
+activity#com.xtracover.xcqc.Activities.AddTesterNameActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:159:9-161:40
 	android:exported
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:161:13-37
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:160:13-55
-activity#com.xtracover.xcqc.Activities.AllTestDataSaveActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:163:9-165:52
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:160:13-61
+activity#com.xtracover.xcqc.Activities.GradingActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:162:9-165:52
 	android:screenOrientation
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:165:13-49
-	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:164:13-63
-activity#com.xtracover.xcqc.OthersTestAndRetestActivities.NfcTestActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:166:9-170:52
-	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:170:13-49
-	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:169:13-44
 	android:exported
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:168:13-37
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:164:13-37
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:167:13-74
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:163:13-55
+activity#com.xtracover.xcqc.Activities.AllTestDataSaveActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:166:9-168:52
+	android:screenOrientation
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:168:13-49
+	android:name
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:167:13-63
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.NfcTestActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:169:9-173:52
+	android:screenOrientation
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:173:13-49
+	android:launchMode
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:172:13-44
+	android:exported
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:171:13-37
+	android:name
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:170:13-74
 activity#com.xtracover.xcqc.BatteryStressTestActivities.BatteryStartTestActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:171:9-174:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:174:9-177:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:174:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:177:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:173:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:176:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:172:13-81
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:175:13-81
 activity#com.xtracover.xcqc.BatteryStressTestActivities.BatteryTestResultsActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:175:9-178:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:178:9-181:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:178:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:181:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:177:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:180:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:176:13-83
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:179:13-83
 activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FrontCameraTestALActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:179:9-183:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:182:9-186:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:183:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:186:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:182:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:185:13-44
 	android:hardwareAccelerated
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:181:13-47
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:184:13-47
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:180:13-88
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:183:13-88
 activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BackCameraTestALActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:184:9-188:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:187:9-191:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:188:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:191:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:187:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:190:13-44
 	android:hardwareAccelerated
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:186:13-47
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:189:13-47
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:185:13-87
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:188:13-87
 activity#com.xtracover.xcqc.OthersTestAndRetestActivities.ImeiValidationActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:189:9-90
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:192:9-90
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:189:19-87
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:192:19-87
 activity#com.xtracover.xcqc.OthersTestAndRetestActivities.DeviceTemperatureActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:190:9-193:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:193:9-196:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:193:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:196:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:192:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:195:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:191:13-84
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:194:13-84
 activity#com.xtracover.xcqc.OthersTestAndRetestActivities.CpuPerformanceActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:194:9-197:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:197:9-200:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:197:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:200:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:196:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:199:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:195:13-81
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:198:13-81
 activity#com.xtracover.xcqc.OthersTestAndRetestActivities.OrientationActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:198:9-200:47
-	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:200:13-44
-	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:199:13-78
-activity#com.xtracover.xcqc.OthersTestAndRetestActivities.FmRadioActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:201:9-204:52
-	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:204:13-49
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:201:9-203:47
 	android:launchMode
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:203:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:202:13-74
-activity#com.xtracover.xcqc.OthersTestAndRetestActivities.NfcSensorActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:205:9-208:52
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:202:13-78
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.FmRadioActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:204:9-207:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:208:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:207:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:207:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:206:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:206:13-76
-activity#com.xtracover.xcqc.OthersTestAndRetestActivities.GrHuMdSdScUvLsIrHasActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:209:9-211:52
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:205:13-74
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.NfcSensorActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:208:9-211:52
 	android:screenOrientation
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:211:13-49
-	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:210:13-86
-activity#com.xtracover.xcqc.OthersTestAndRetestActivities.BiometricTestActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:212:9-215:52
-	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:215:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:214:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:210:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:213:13-80
-activity#com.xtracover.xcqc.OthersTestAndRetestActivities.GyroscopeGamingSensorActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:216:9-218:52
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:209:13-76
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.GrHuMdSdScUvLsIrHasActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:212:9-214:52
+	android:screenOrientation
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:214:13-49
+	android:name
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:213:13-86
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.BiometricTestActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:215:9-218:52
 	android:screenOrientation
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:218:13-49
+	android:launchMode
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:217:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:217:13-88
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:216:13-80
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.GyroscopeGamingSensorActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:219:9-221:52
+	android:screenOrientation
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:221:13-49
+	android:name
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:220:13-88
 activity#com.xtracover.xcqc.OthersTestAndRetestActivities.OtgActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:219:9-222:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:222:9-225:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:222:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:225:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:221:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:224:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:220:13-70
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:223:13-70
 activity#com.xtracover.xcqc.OthersTestAndRetestActivities.UsbTestActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:223:9-226:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:226:9-229:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:226:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:229:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:225:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:228:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:224:13-74
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:227:13-74
 activity#com.xtracover.xcqc.OthersTestAndRetestActivities.ChargingTestActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:227:9-230:52
-	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:230:13-49
-	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:229:13-44
-	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:228:13-79
-activity#com.xtracover.xcqc.OthersTestAndRetestActivities.VolumeUpDownHBPKActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:231:9-233:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:230:9-233:52
 	android:screenOrientation
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:233:13-49
-	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:232:13-83
-activity#com.xtracover.xcqc.OthersTestAndRetestActivities.ProximityActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:234:9-237:52
-	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:237:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:236:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:232:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:235:13-76
-activity#com.xtracover.xcqc.OthersTestAndRetestActivities.InternalExternalStorageActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:238:9-240:52
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:231:13-79
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.VolumeUpDownHBPKActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:234:9-236:52
+	android:screenOrientation
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:236:13-49
+	android:name
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:235:13-83
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.ProximityActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:237:9-240:52
 	android:screenOrientation
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:240:13-49
-	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:239:13-90
-activity#com.xtracover.xcqc.OthersTestAndRetestActivities.BatteryActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:241:9-244:52
-	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:244:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:243:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:239:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:242:13-74
-activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.NetworkSignalFirstSecondActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:245:9-247:52
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:238:13-76
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.InternalExternalStorageActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:241:9-243:52
+	android:screenOrientation
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:243:13-49
+	android:name
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:242:13-90
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.BatteryActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:244:9-247:52
 	android:screenOrientation
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:247:13-49
+	android:launchMode
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:246:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:246:13-92
-activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.WifiInternetGpsActivity
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:245:13-74
+activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.NetworkSignalFirstSecondActivity
 ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:248:9-250:52
 	android:screenOrientation
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:250:13-49
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:249:13-83
-activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FlashFrontTorchActivity
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:249:13-92
+activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.WifiInternetGpsActivity
 ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:251:9-253:52
 	android:screenOrientation
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:253:13-49
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:252:13-86
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:252:13-83
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FlashFrontTorchActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:254:9-256:52
+	android:screenOrientation
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:256:13-49
+	android:name
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:255:13-86
 activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.MicrophoneActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:254:9-257:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:257:9-260:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:257:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:260:13-49
 	android:hardwareAccelerated
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:256:13-47
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:259:13-47
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:255:13-81
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:258:13-81
 activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.AudioPlaybackActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:258:9-261:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:261:9-264:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:261:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:264:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:260:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:263:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:259:13-84
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:262:13-84
 activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.ReceiverActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:262:9-265:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:265:9-268:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:265:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:268:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:264:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:267:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:263:13-79
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:266:13-79
 activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.LoudSpeakerActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:266:9-269:52
-	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:269:13-49
-	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:268:13-44
-	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:267:13-82
-activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.EarphoneJMKActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:270:9-272:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:269:9-272:52
 	android:screenOrientation
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:272:13-49
+	android:launchMode
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:271:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:271:13-82
-activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BluetoothActivity
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:270:13-82
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.EarphoneJMKActivity
 ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:273:9-275:52
 	android:screenOrientation
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:275:13-49
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:274:13-80
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:274:13-82
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BluetoothActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:276:9-278:52
+	android:screenOrientation
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:278:13-49
+	android:name
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:277:13-80
 activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FrontVideoRecordingActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:276:9-280:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:279:9-283:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:280:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:283:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:279:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:282:13-44
 	android:hardwareAccelerated
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:278:13-47
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:281:13-47
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:277:13-90
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:280:13-90
 activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BackVideoRecordingActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:281:9-285:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:284:9-288:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:285:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:288:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:284:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:287:13-44
 	android:hardwareAccelerated
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:283:13-47
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:286:13-47
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:282:13-89
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:285:13-89
 activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.CameraAutoFocusActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:286:9-290:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:289:9-293:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:290:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:293:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:289:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:292:13-44
 	android:hardwareAccelerated
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:288:13-47
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:291:13-47
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:287:13-86
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:290:13-86
 activity#com.xtracover.xcqc.DisplayTestAndRetestActivities.DisplayBrightnessActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:291:9-294:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:294:9-297:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:294:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:297:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:293:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:296:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:292:13-85
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:295:13-85
 activity#com.xtracover.xcqc.DisplayTestAndRetestActivities.MultiTouchTestActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:295:9-299:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:298:9-302:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:299:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:302:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:298:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:301:13-44
 	android:hardwareAccelerated
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:297:13-47
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:300:13-47
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:296:13-82
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:299:13-82
 activity#com.xtracover.xcqc.DisplayTestAndRetestActivities.DisplayAndTouchScreenActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:300:9-304:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:303:9-307:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:304:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:307:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:303:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:306:13-44
 	android:hardwareAccelerated
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:302:13-47
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:305:13-47
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:301:13-89
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:304:13-89
 activity#com.xtracover.xcqc.DisplayTestAndRetestActivities.DeadPixelCheckActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:305:9-308:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:308:9-311:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:308:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:311:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:307:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:310:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:306:13-82
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:309:13-82
 activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.VolteCallingActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:309:9-312:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:312:9-315:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:312:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:315:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:311:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:314:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:310:13-80
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:313:13-80
 activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.CallingSimTwoActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:313:9-316:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:316:9-319:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:316:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:319:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:315:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:318:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:314:13-81
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:317:13-81
 activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.CallingSimOneActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:317:9-320:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:320:9-323:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:320:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:323:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:319:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:322:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:318:13-81
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:321:13-81
 activity#com.xtracover.xcqc.Activities.CertificateOfTestActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:321:9-324:52
-	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:324:13-49
-	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:323:13-44
-	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:322:13-65
-activity#com.xtracover.xcqc.Activities.ShowEmptyResultsActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:325:9-327:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:324:9-327:52
 	android:screenOrientation
 		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:327:13-49
+	android:launchMode
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:326:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:326:13-64
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:325:13-65
+activity#com.xtracover.xcqc.Activities.ShowEmptyResultsActivity
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:328:9-330:52
+	android:screenOrientation
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:330:13-49
+	android:name
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:329:13-64
 activity#com.xtracover.xcqc.Activities.TermsConditionActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:328:9-331:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:331:9-334:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:331:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:334:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:330:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:333:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:329:13-62
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:332:13-62
 activity#com.xtracover.xcqc.Activities.ImeiInstructionActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:332:9-335:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:335:9-338:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:335:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:338:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:334:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:337:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:333:13-63
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:336:13-63
 activity#com.xtracover.xcqc.Activities.GetInTouchActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:336:9-339:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:339:9-342:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:339:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:342:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:338:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:341:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:337:13-58
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:340:13-58
 activity#com.xtracover.xcqc.Activities.LoginActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:340:9-343:52
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:343:9-346:52
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:343:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:346:13-49
 	android:launchMode
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:342:13-44
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:345:13-44
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:341:13-53
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:344:13-53
 activity#com.xtracover.xcqc.SplashScreenActivity
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:344:9-353:20
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:347:9-356:20
 	android:screenOrientation
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:347:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:350:13-49
 	android:exported
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:346:13-36
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:349:13-36
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:345:13-49
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:348:13-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:348:13-352:29
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:351:13-355:29
 action#android.intent.action.MAIN
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:349:17-69
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:352:17-69
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:349:25-66
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:352:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:351:17-77
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:354:17-77
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:351:27-74
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:354:27-74
 service#com.xtracover.xcqc.Services.ScreenCaptureService
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:355:9-361:35
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:358:9-364:35
 	android:enabled
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:357:13-35
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:360:13-35
 	android:exported
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:358:13-36
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:361:13-36
 	tools:targetApi
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:361:13-32
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:364:13-32
 	android:stopWithTask
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:360:13-40
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:363:13-40
 	android:foregroundServiceType
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:359:13-60
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:362:13-60
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:356:13-58
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:359:13-58
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:368:13-370:58
+ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:371:13-373:58
 	android:resource
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:370:17-55
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:373:17-55
 	android:name
-		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:369:17-67
+		ADDED from E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:372:17-67
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
 	android:exported

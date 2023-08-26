@@ -138,6 +138,9 @@
         android:theme="@style/BaseTheme"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.xtracover.xcqc.Activities.AddTesterNameActivity"
+            android:exported="false" />
+        <activity
             android:name="com.xtracover.xcqc.Activities.GradingActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
