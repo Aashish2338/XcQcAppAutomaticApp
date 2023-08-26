@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49c3d32a-def5-440b-bfe5-6bafed6025af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\aashi\.android\avd\Pixel_3a_1.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FlipCartAppNew" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="23Ay3sTJhCXHCfTBmywS11CaOEK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;BundleExportedModule&quot;: &quot;FlipCartAppNew.app&quot;,
+    &quot;DEBUGGABLE_DEVICE&quot;: &quot;oneplus-dn2101-NF9DHAX4J79L8DHI&quot;,
+    &quot;DEBUGGABLE_PROCESS&quot;: &quot;com.xtracover.xcqc&quot;,
+    &quot;DEBUGGER_ID&quot;: &quot;Auto&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHOW_ALL_PROCESSES&quot;: &quot;false&quot;,
+    &quot;android-custom-viewC:/Users/Aashish Vishavkarma/AppData/Local/Android/Sdk/sources/android-31/android/widget/ImageView.java_SELECTED&quot;: &quot;ImageView&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/DEBASISH-LAB/Desktop/xcqc/XCQC Mobile/XCQC App Code/XcQcApp_Automatic_Latest_28_April_2023/app/src/main/res/drawable&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/XctracoverAndroidProject/XcQcAppAutomaticLatestApp&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Suggestions&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;recommended.upgrade.do.not.ask.for.project&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/DEBASISH-LAB/Desktop/xcqc/XCQC Mobile/XCQC App Code/XcQcApp_Automatic_Latest_03_May_2023/app/src/main/java/com/xtracover/xcqc/Activities/AllTestDataSaveActivity.java&quot;
+  }
+}</component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-2121090364">
+      <recent name="com.xtracover.xcqc.Activities" />
+    </key>
+    <key name="android.template.1554517913">
+      <recent name="com.xctracover.xcqc.TestAndRetestNetworkActivities" />
+    </key>
+    <key name="android.template.-2057282587">
+      <recent name="com.xtracover.xcqc.AutomaticTestAndRetestActivities" />
+    </key>
+    <key name="android.template.1548290820">
+      <recent name="com.aforeserve.flipcartappnew.Activities" />
+    </key>
+    <key name="android.template.2040063647">
+      <recent name="com.xtracover.xcqc.DisplayTestAndRetestActivities" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities" />
+      <recent name="com.xtracover.xcqc.BatteryStressTestActivities" />
+      <recent name="com.xtracover.xcqc.OthersTestAndRetestActivities" />
+      <recent name="com.xtracover.xcqc.Interfaces" />
+    </key>
+    <key name="android.template.365826128">
+      <recent name="com.xtracover.xcqc" />
+    </key>
+    <key name="android.template.1393032499">
+      <recent name="com.aforeserve.flipcartappnew.TestAndRetest" />
+      <recent name="com.aforeserve.flipcartappnew.BatteryStressTests" />
+      <recent name="com.aforeserve.flipcartappnew.Activities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DEBASISH-LAB\Desktop\xcqc\XCQC Mobile\XCQC App Code\XcQcApp_Automatic_Latest_28_April_2023\app\src\main\res\drawable" />
+      <recent name="D:\FlipCartNewVersion\XcQcApp_Automatic_Latest_03_March_2023\app\src\main\res\drawable" />
+      <recent name="C:\Users\ATPL\AndroidStudioProjects\XcQcApp_Automatic_Latest_11_08_2022\app\src\main\res\drawable" />
+      <recent name="C:\Users\ATPL\AndroidStudioProjects\XcQcApp_Automatic_Latest_11_08_2022\app\src\main\res\layout" />
+      <recent name="C:\Users\ATPL\AndroidStudioProjects\XcQcApp_Automatic_Latest_11_08_2022\app\src\main\java\com\xtracover\xcqc\BatteryStressTestActivities" />
+    </key>
+    <key name="android.template.1322668035">
+      <recent name="com.xtracover.xcqc.OthersTestAndRetestActivities" />
+      <recent name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities" />
+    </key>
+    <key name="android.template.-1361799634">
+      <recent name="com.aforeserve.flipcartappnew.Activities" />
+    </key>
+    <key name="android.template.-43786702">
+      <recent name="com.xtracover.xcqc.OthersTestAndRetestActivities" />
+      <recent name="com.xtracover.xcqc.OthersActivities" />
+      <recent name="com.xtracover.xcqc.NetworkTestAndRetestActivities" />
+      <recent name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities" />
+      <recent name="com.xtracover.xcqc.DisplayTestAndRetestActivities" />
+    </key>
+    <key name="android.template.-1455543990">
+      <recent name="com.xtracover.xcqc.Activities" />
+    </key>
+    <key name="android.template.584494006">
+      <recent name="com.xtracover.xcqc.OthersTestAndRetestActivities" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cas" />
+      <command value="ret" />
+      <command value="l̥" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.xtracover.xcqc.Utilities in FlipCartAppNew.app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlipCartAppNew.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xtracover.xcqc.Utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xtracover.xcqc.Utilities" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="FlipCartAppNew.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="true" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49c3d32a-def5-440b-bfe5-6bafed6025af" name="Default Changelist" comment="" />
+      <created>1641190990927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641190990927</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/xtracover/xcqc/AudioVideoTestAndRetestActivities/ReceiverActivity.java</url>
+          <line>572</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/xtracover/xcqc/Activities/ShowEmptyResultsActivity.java</url>
+          <line>419</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/xtracover/xcqc/Activities/ShowEmptyResultsActivity.java</url>
+          <line>420</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/xtracover/xcqc/Activities/ShowEmptyResultsActivity.java</url>
+          <line>414</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/xtracover/xcqc/Activities/ShowEmptyResultsActivity.java</url>
+          <line>439</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/xtracover/xcqc/Activities/ShowEmptyResultsActivity.java</url>
+          <line>443</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/xtracover/xcqc/Activities/ShowEmptyResultsActivity.java</url>
+          <line>444</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/xtracover/xcqc/SplashScreenActivity.java</url>
+          <line>87</line>
+          <properties class="com.xtracover.xcqc.SplashScreenActivity" method="disableScreenOrientation">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/xtracover/xcqc/Activities/ShowEmptyResultsActivity.java</url>
+          <line>437</line>
+          <properties method="onError">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/xtracover/xcqc/Activities/ShowEmptyResultsActivity.java</url>
+          <line>418</line>
+          <properties method="onSuccess">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/xtracover/xcqc/Activities/ShowEmptyResultsActivity.java</url>
+          <line>411</line>
+          <properties class="com.xtracover.xcqc.Activities.ShowEmptyResultsActivity" method="createNewCertificate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

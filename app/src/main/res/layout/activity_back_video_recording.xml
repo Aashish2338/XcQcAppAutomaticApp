@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AudioVideoTestAndRetestActivities.BackVideoRecordingActivity">
+
+    <LinearLayout
+        android:id="@+id/layoutCameraVideoRecordingTestHelp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/imge_logo"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:src="@drawable/extracover_logo" />
+
+        <TextView
+            android:id="@+id/scanningHeaderBackCam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:text="Back Camera Video Recording Test"
+            android:textAppearance="@style/Primarybold_Text20"
+            android:textColor="#2234AC" />
+
+        <TextView
+            android:id="@+id/tvInstructions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:hint="Test Instructions"
+            android:textAppearance="@style/Primarybold_Text16"
+            android:textColor="#2234AC" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="top"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/centerImage"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/scan_videorecording"
+                    app:tint="@color/Chocolate" />
+
+                <com.xtracover.xcqc.Utilities.AnimatedGifImageView
+                    android:id="@+id/scanGIF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/AudioText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:hint=""
+                android:textAppearance="@style/darkPrimarybold_Text16"
+                android:textColor="#2234AC" />
+
+            <TextView
+                android:id="@+id/counterTextForButtons"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="5dp"
+                android:text="6"
+                android:textAppearance="@style/Primarybold_Text30"
+                android:textColor="#2234AC" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutCameraVideoRecordingTestCapture"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/imge_log"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/extracover_logo" />
+
+        <TextView
+            android:id="@+id/scanningHeaderBackCam1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imge_log"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:text="Back Camera Video Recording Test"
+            android:textAppearance="@style/Primarybold_Text20"
+            android:textColor="#2234AC" />
+
+        <TextView
+            android:id="@+id/tvInstructions1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/scanningHeaderBackCam1"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:hint="Test Instructions"
+            android:textAppearance="@style/Primarybold_Text16"
+            android:textColor="#2234AC" />
+
+        <TextureView
+            android:id="@+id/textureView"
+            android:layout_width="200dp"
+            android:layout_height="267dp"
+            android:layout_below="@+id/tvInstructions1"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/extratext2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textureView"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text=""
+            android:textAppearance="@style/Primarybold_Text16"
+            android:textColor="#2234AC" />
+
+        <Chronometer
+            android:id="@+id/chronometer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvInstructions1"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:textColor="#ff0000"
+            android:textSize="25dp" />
+
+        <TextView
+            android:id="@+id/textViewLabelTimer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/extratext2"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="5dp"
+            android:hint="6"
+            android:textAppearance="@style/Primarybold_Text30"
+            android:textColor="#2234AC" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutCameraVideoRecordingTestResult"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/imge_logo1"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:src="@drawable/extracover_logo" />
+
+        <TextView
+            android:id="@+id/scanningHeaderBackCam2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imge_logo1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:text="Back Camera Video Recording Test"
+            android:textAppearance="@style/Primarybold_Text20"
+            android:textColor="#2234AC" />
+
+        <TextView
+            android:id="@+id/textViewImageText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/scanningHeaderBackCam2"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:hint="Image Text"
+            android:textColor="#2234AC"
+            android:textSize="14sp" />
+
+        <VideoView
+            android:id="@+id/videoView1"
+            android:layout_width="200dp"
+            android:layout_height="267dp"
+            android:layout_below="@id/textViewImageText"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:id="@+id/extratext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/videoView1"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text=""
+            android:textAppearance="@style/Primarybold_Text16"
+            android:textColor="#2234AC" />
+
+        <TextView
+            android:id="@+id/textViewLabelTimer2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/extratext"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10sp"
+            android:hint="6"
+            android:textAppearance="@style/Primarybold_Text30"
+            android:textColor="#2234AC" />
+
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.GradingActivity">
+
+    <ImageView
+        android:id="@+id/imge_log"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_marginBottom="0dp"
+        android:src="@drawable/extracover_logo" />
+
+    <TextView
+        android:id="@+id/application_Version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imge_log"
+        android:layout_marginBottom="5dp"
+        android:gravity="center_horizontal"
+        android:text="@string/app_version_1_00"
+        android:textAppearance="@style/Primarybold_Text16"
+        android:textColor="#2f4fa7" />
+
+    <LinearLayout
+        android:id="@+id/ltd_report"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_version"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="5dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:visibility="visible">
+
+            <TextView
+                android:id="@+id/back_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:drawablePadding="10dp"
+                android:gravity="left"
+                android:text="Select Condition"
+                android:textAppearance="@style/Primarybold_Text20"
+                android:textColor="#2f4fa7" />
+
+            <com.google.android.material.switchmaterial.SwitchMaterial
+                android:id="@+id/switch1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:checked="true"
+                android:gravity="right|center"
+                android:switchMinWidth="56dp"
+                android:text="Voice Assistant "
+                android:textAppearance="@style/Primarybold_Text16"
+                android:textColor="#2f4fa7"
+                android:textOff="OFF"
+                android:textOn="ON" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/back_text"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="60dp"
+                android:layout_height="5dp"
+                android:background="#ff0000" />
+
+            <View
+                android:layout_width="45dp"
+                android:layout_height="5dp"
+                android:background="#2234AC" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:orientation="horizontal"
+            android:visibility="visible">
+
+            <TextView
+                android:id="@+id/id_grade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Grade: "
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="22dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_grade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text=" "
+                android:textColor="@color/Red"
+                android:textSize="22dp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ltd_report"
+        android:layout_marginTop="8dp"
+        android:overScrollMode="never">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingTop="5dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="5dp"
+                android:text="BODY DAMAGES:"
+                android:textAppearance="@style/darkPrimarybold_Text16"
+                android:textColor="#2234AC" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical">
+
+                <RadioGroup
+                    android:id="@+id/body_damages"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RadioButton
+                        android:id="@+id/body_damages_yes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:layout_marginVertical="10dp"
+                        android:checked="false"
+                        android:text="Yes"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/fab_margin" />
+
+                    <RadioButton
+                        android:id="@+id/body_damages_no"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:layout_marginVertical="10dp"
+                        android:checked="false"
+                        android:text="No"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/fab_margin" />
+
+                </RadioGroup>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="#AEAEAE"
+                    android:visibility="visible" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingTop="5dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="5dp"
+                android:text="LCD GLASS DAMAGE:"
+                android:textAppearance="@style/darkPrimarybold_Text16"
+                android:textColor="#2234AC" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical">
+
+                <RadioGroup
+                    android:id="@+id/lcd_glass_damage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RadioButton
+                        android:id="@+id/lcd_glass_damage_yes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:layout_marginVertical="10dp"
+                        android:checked="false"
+                        android:text="Yes"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/fab_margin" />
+
+                    <RadioButton
+                        android:id="@+id/lcd_glass_damage_no"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:layout_marginVertical="10dp"
+                        android:checked="false"
+                        android:text="No"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/fab_margin" />
+
+                </RadioGroup>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="#AEAEAE"
+                    android:visibility="visible" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingTop="5dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="5dp"
+                android:text="LCD DAMAGE:"
+                android:textAppearance="@style/darkPrimarybold_Text16"
+                android:textColor="#2234AC" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical">
+
+                <RadioGroup
+                    android:id="@+id/lcd_damage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RadioButton
+                        android:id="@+id/lcd_damage_yes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:layout_marginVertical="10dp"
+                        android:checked="false"
+                        android:text="Yes"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/fab_margin" />
+
+                    <RadioButton
+                        android:id="@+id/lcd_damage_no"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:layout_marginVertical="10dp"
+                        android:checked="false"
+                        android:text="No"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/fab_margin" />
+
+                </RadioGroup>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="#AEAEAE"
+                    android:visibility="visible" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingTop="5dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="5dp"
+                android:text="PASTING ISSUE:"
+                android:textAppearance="@style/darkPrimarybold_Text16"
+                android:textColor="#2234AC" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical">
+
+                <RadioGroup
+                    android:id="@+id/pasting_issue"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RadioButton
+                        android:id="@+id/pasting_issue_yes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:layout_marginVertical="10dp"
+                        android:checked="false"
+                        android:text="Yes"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/fab_margin" />
+
+                    <RadioButton
+                        android:id="@+id/pasting_issue_no"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:layout_marginVertical="10dp"
+                        android:checked="false"
+                        android:text="No"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/fab_margin" />
+
+                </RadioGroup>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="#AEAEAE"
+                    android:visibility="visible" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingTop="5dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="5dp"
+                android:text="YELLOW BORDER:"
+                android:textAppearance="@style/darkPrimarybold_Text16"
+                android:textColor="#2234AC" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical">
+
+                <RadioGroup
+                    android:id="@+id/yellow_border"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RadioButton
+                        android:id="@+id/yellow_border_yes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:layout_marginVertical="10dp"
+                        android:checked="false"
+                        android:text="Yes"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/fab_margin" />
+
+                    <RadioButton
+                        android:id="@+id/yellow_border_no"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:layout_marginVertical="10dp"
+                        android:checked="false"
+                        android:text="No"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/fab_margin" />
+
+                </RadioGroup>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="#AEAEAE"
+                    android:visibility="visible" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_fullG"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="20dp"
+                android:background="@drawable/round_barder_background"
+                android:drawableRight="@drawable/ic_chevron_right_small"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:paddingLeft="50dp"
+                android:paddingRight="50dp"
+                android:text="Continue"
+                android:textAllCaps="false"
+                android:textAppearance="@style/Primarybold_Text20"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</RelativeLayout>

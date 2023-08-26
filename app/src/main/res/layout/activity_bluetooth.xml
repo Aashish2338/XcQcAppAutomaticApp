@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AudioVideoTestAndRetestActivities.BluetoothActivity">
+
+    <LinearLayout
+        android:id="@+id/layoutBluetoothTestHelp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/imge_logo"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:src="@drawable/extracover_logo" />
+
+        <TextView
+            android:id="@+id/scanningHeaderBackCam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:text="Bluetooth Test"
+            android:textAppearance="@style/Primarybold_Text20"
+            android:textColor="#2234AC" />
+
+        <TextView
+            android:id="@+id/tvInstructions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:hint="Test Instructions"
+            android:textAppearance="@style/Primarybold_Text16"
+            android:textColor="#2234AC" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="top"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/centerImage"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_centerInParent="true"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/report_bluetooth"
+                    android:tint="@color/Chocolate"
+                    tools:ignore="UseAppTint" />
+
+                <com.xtracover.xcqc.Utilities.AnimatedGifImageView
+                    android:id="@+id/scanGIF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/AudioText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:hint=""
+                android:textAppearance="@style/darkPrimarybold_Text16"
+                android:textColor="#2234AC" />
+
+            <TextView
+                android:id="@+id/counterTextForTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="5dp"
+                android:text="6"
+                android:textAppearance="@style/Primarybold_Text30"
+                android:textColor="#2234AC" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutBluetoothTest"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/imge_logo1"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:src="@drawable/extracover_logo" />
+
+        <TextView
+            android:id="@+id/scanningHeaderBackCam1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:text="Bluetooth Test"
+            android:textAppearance="@style/Primarybold_Text20"
+            android:textColor="#2234AC" />
+
+        <TextView
+            android:id="@+id/tvInstructions1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:hint="Test Instructions"
+            android:textAppearance="@style/Primarybold_Text16"
+            android:textColor="#2234AC" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tvLabelBluetoothPaired"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:gravity="left"
+                android:text="Paired Bluetooth Devices"
+                android:textAppearance="@style/Primarybold_Text16"
+                android:textColor="#2234AC" />
+
+            <ListView
+                android:id="@+id/listViewValueBluetoothPaired"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_below="@+id/tvLabelBluetoothPaired"
+                android:background="@color/Gainsboro"
+                android:divider="@color/black"
+                android:dividerHeight="1sp"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tvLabelBluetoothDiscovered"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/listViewValueBluetoothPaired"
+                android:layout_margin="5dp"
+                android:gravity="left"
+                android:text="Discovered Bluetooth Devices"
+                android:textAppearance="@style/Primarybold_Text16"
+                android:textColor="#2234AC" />
+
+            <ListView
+                android:id="@+id/listViewValueBluetooth"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_below="@+id/tvLabelBluetoothDiscovered"
+                android:background="@color/Gainsboro"
+                android:divider="@color/black"
+                android:dividerHeight="1sp"
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/AudioText1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:hint=""
+            android:textAppearance="@style/darkPrimarybold_Text16"
+            android:textColor="#2234AC" />
+
+        <TextView
+            android:id="@+id/counterTextForTime1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:text="6"
+            android:textAppearance="@style/Primarybold_Text30"
+            android:textColor="#2234AC" />
+
+    </LinearLayout>
+</LinearLayout>

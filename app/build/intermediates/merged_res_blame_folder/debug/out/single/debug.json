@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_show_error_report_layout.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\show_error_report_layout.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_report_bluetooth.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\report_bluetooth.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_brightness.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_display_brightness.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_report_imei.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\report_imei.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user_small.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\ic_user_small.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cpu_performance.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_cpu_performance.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fast_charge.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\fast_charge.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_earphone.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_earphone.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_microphone.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_microphone.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_storageexternal.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_storageexternal.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_videorecording.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_videorecording.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_13.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\ic_group_13.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_square.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_square.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_headphonejack.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_headphonejack.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flash_front_torch.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_flash_front_torch.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_get_in_touch.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_get_in_touch.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_light.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_light.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_spintextview.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\spintextview.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_multi_touch_test.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_multi_touch_test.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_internal_external_storage.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_internal_external_storage.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_audio_playback.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_audio_playback.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_extracover_logo_old.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\extracover_logo_old.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_square.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_square.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_ledflash.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_ledflash.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_report_fingreprintsensor.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\report_fingreprintsensor.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_volte_calling.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_volte_calling.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deadpixels.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\deadpixels.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_square.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_square.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\raw_scanning8.gif.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\raw\\scanning8.gif"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_multi_touch_test1.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_multi_touch_test1.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_down.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.jpg.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_report_screen.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\report_screen.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_volume_up.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\volume_up.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s_wifi.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\s_wifi.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alert.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\alert.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_vibrate.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_vibrate.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_back_camera_test_al.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_back_camera_test_al.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_crosss.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\button_crosss.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_square.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_square.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s_bluetooth.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\s_bluetooth.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_internet.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_internet.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_proximity.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_proximity.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_circle.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_circle.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_imei_instruction.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_imei_instruction.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calling_sim_one.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_calling_sim_one.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_usb_test.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_usb_test.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_circle.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_circle.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_back_video_recording.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_back_video_recording.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_report_microphone.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\report_microphone.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_battery_test_results.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_battery_test_results.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_left_white.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\ic_left_white.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_wifi.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_wifi.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check_mark.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\check_mark.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nfc_test.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_nfc_test.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bluetooth.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_bluetooth.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_background_gray.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\round_background_gray.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_barder_background.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\round_barder_background.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_usb.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_usb.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_and_touch_screen.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_display_and_touch_screen.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_test_data_save.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_all_test_data_save.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_gyroscopeforgaming.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_gyroscopeforgaming.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\a.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_square.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_square.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skip_barder_background.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\skip_barder_background.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_gravity.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_gravity.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera_auto_focus.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_camera_auto_focus.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_stepdetector.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_stepdetector.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gr_hu_md_sd_sc_uv_ls_ir_has.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_gr_hu_md_sd_sc_uv_ls_ir_has.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_battery_low.jpeg.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\battery_low.jpeg"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_small.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\ic_lock_small.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chevron_right_small.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\ic_chevron_right_small.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_agps.jpeg.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\agps.jpeg"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dead_pixel_check.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_dead_pixel_check.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wifi_internet_gps.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_wifi_internet_gps.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_humidity.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_humidity.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_report_menu.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\report_menu.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_orientation.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_orientation.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_terms_condition.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_terms_condition.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_right.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\button_right.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_biometric.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_biometric.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_screen.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_screen.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_option_layout.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\login_option_layout.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_power_key.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\power_key.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_b.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\b.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_gyroscopesensor.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_gyroscopesensor.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_circle.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_circle.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_front_video_recording.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_front_video_recording.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_front_camera_test_al.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_front_camera_test_al.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_network_signal_first_second.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_network_signal_first_second.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_no_usb.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\no_usb.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calling_sim_two.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_calling_sim_two.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_imei_validation.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_imei_validation.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_empty_results.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_show_empty_results.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\raw_song.mp3.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\raw\\song.mp3"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_gpslocation.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_gpslocation.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_volume_down.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\volume_down.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancel_fails.jpeg.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\cancel_fails.jpeg"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_battery.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\battery.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_device_temperature.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_device_temperature.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_networksim.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_networksim.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_microphone.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_microphone.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orientation.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\orientation.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_again.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\test_again.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_circle.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_circle.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\transition_slide_from_left.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\transition\\slide_from_left.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fm_radio.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\fm_radio.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_gallery_images_relative_layout_camera.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\gallery_images_relative_layout_camera.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_magnet.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\magnet.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_flashtorch.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_flashtorch.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_cpu.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_cpu.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_infrared.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_infrared.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_otg.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_otg.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_airtempretute.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_airtempretute.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_storageinternal.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_storageinternal.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_skip_triangle.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\button_skip_triangle.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_block.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\block.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_earphone_j_m_k.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_earphone_j_m_k.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_loudspeakerclear.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_loudspeakerclear.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_nfc.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_nfc.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cube_rotation.gif.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\cube_rotation.gif"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_extracover_logo.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\extracover_logo.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_charging_test.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_charging_test.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_camera.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_camera.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_stepcounter.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_stepcounter.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gyroscope_gaming_sensor.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_gyroscope_gaming_sensor.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_certificate_of_test.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_certificate_of_test.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xtracover_logo_new.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\xtracover_logo_new.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_grading.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_grading.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_right_yellow.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\ic_right_yellow.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fingerprint.jpeg.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\fingerprint.jpeg"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_battery.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_battery.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_yellow_down_arrow.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\ic_yellow_down_arrow.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_usb_charge.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\usb_charge.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s_headfone.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\s_headfone.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_valume_up_down_h_b_p_k.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_valume_up_down_h_b_p_k.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_receiver.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_receiver.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_battery_start_test.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_battery_start_test.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_uvsencor.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_uvsencor.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_left_arrow_small.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\ic_left_arrow_small.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_gps.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_gps.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loud_speaker.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_loud_speaker.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fm_radio.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_fm_radio.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brightness.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\brightness.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_proxomity.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_proxomity.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nfc_sensor.xml.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\layout\\activity_nfc_sensor.xml"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_circle.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_circle.png"
+    },
+    {
+        "merged": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_motiondetactor.png.flat",
+        "source": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\src\\main\\res\\drawable\\scan_motiondetactor.png"
+    }
+]

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AudioVideoTestAndRetestActivities.MicrophoneActivity">
+
+    <ImageView
+        android:id="@+id/imge_log"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/extracover_logo" />
+
+    <TextView
+        android:id="@+id/scanningHeaderBackCam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Microphone Test"
+        android:textAppearance="@style/Primarybold_Text20"
+        android:textColor="#2234AC" />
+
+    <TextView
+        android:id="@+id/tvInstructions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:hint="Test Instructions"
+        android:textAppearance="@style/Primarybold_Text16"
+        android:textColor="#2234AC" />
+
+    <TextView
+        android:id="@+id/tvSpeechToText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:hint=""
+        android:padding="5dp"
+        android:textAppearance="@style/Primarybold_Text16"
+        android:textColor="@color/LightGreen1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/centerImageMicrophone"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_centerInParent="true"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/report_microphone"
+                app:tint="@color/Chocolate" />
+
+            <ImageView
+                android:id="@+id/imageViewMicrophoneReady"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_centerInParent="true"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/report_microphone"
+                app:tint="@color/LightGreen1" />
+
+            <ImageView
+                android:id="@+id/imageViewMicrophoneNotReady"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_centerInParent="true"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/report_microphone"
+                app:tint="@color/black" />
+
+            <ImageView
+                android:id="@+id/centerImageHandsetMicrophone"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_centerInParent="true"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/scan_earphone"
+                app:tint="@color/Chocolate" />
+
+            <ImageView
+                android:id="@+id/imageViewHandsetMicrophoneReady"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_centerInParent="true"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/scan_microphone"
+                app:tint="@color/LightGreen1" />
+
+            <ImageView
+                android:id="@+id/imageViewHandsetMicrophoneNotReady"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_centerInParent="true"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/scan_microphone"
+                app:tint="@color/black" />
+
+            <com.xtracover.xcqc.Utilities.AnimatedGifImageView
+                android:id="@+id/scanGIF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerHorizontal="true" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/EarPhoneText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:text=""
+            android:textAppearance="@style/Primarybold_Text16"
+            android:textColor="#2234AC" />
+
+        <TextView
+            android:id="@+id/counterTextForButtons"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:text="6"
+            android:textAppearance="@style/Primarybold_Text30"
+            android:textColor="#2234AC" />
+
+    </LinearLayout>
+</LinearLayout>

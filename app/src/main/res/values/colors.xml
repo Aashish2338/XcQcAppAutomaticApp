@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#2f4fa7</color>
+    <color name="purple_500">#2f4fa7</color>
+    <color name="purple_700">#2f4fa7</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    //color of xml
+    <color name="blueText">#0091d0</color>
+    <color name="App_background">#f37405</color>
+    <color name="text_color">#3f3f3f</color>
+    <color name="Gainsboro">#DCDCDC</color>
+    <color name="colorPrimary">#ff0000</color>
+    <color name="colorPrimaryDark">#2f4fa7</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteDark">#F8E8E8</color>
+    <color name="app_colorblue">#0099cc</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="Chocolate">#ff0000</color>
+    <color name="togofogo_color">#00879A</color>
+    <color name="red">#FF0000</color>
+    <color name="Red">#FF0000</color>
+    <color name="Green">#00FF00</color>
+    <color name="Blue">#0000FF</color>
+    <color name="LightGreen1">#78C75D</color>
+
+</resources>

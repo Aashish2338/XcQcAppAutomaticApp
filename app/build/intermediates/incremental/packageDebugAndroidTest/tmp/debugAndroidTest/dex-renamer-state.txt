@@ -1,0 +1,13 @@
+#Fri Aug 11 17:40:44 IST 2023
+path.3=13/classes.dex
+path.2=10/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=D\:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\13\\classes.dex
+base.2=D\:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\10\\classes.dex
+base.1=D\:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.0=D\:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex

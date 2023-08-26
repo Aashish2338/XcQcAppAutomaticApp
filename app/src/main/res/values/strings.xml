@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">XCQC Mobile</string>
+
+    <string name="prompt_email">UserId</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign in</string>
+
+    <string name="results">Result : </string>
+    <string name="str_dial">You can go to your phone dial pad and call to <b>*#06#</b> to view your IMEI Number</string>
+    <string name="terms_1">Tests will be performed</string>
+    <string name="terms_2">For best test results follow the following instructions :</string>
+    <string name="terms_3">Get Higher Test Score</string>
+    <string name="terms_4">Phone price will be reduced</string>
+    <string name="terms_5">Ensure that your headphone is connected to the phone jack</string>
+    <string name="terms_6">Connect your USB cable to a power or data source</string>
+    <string name="terms_7">Switch on your Bluetooth</string>
+    <string name="terms_8">Ensure that you have an active internet connection or your phone is connected to WIFI with internet connection</string>
+    <string name="terms_and_condition_apply">terms and conditions apply</string>
+    <string name="_7">To repeat, click Home button</string>
+    <string name="follow_the_instructions_as_prompted_while_the_test_is_being_conducted">Follow the instructions as prompted while the test is being conducted</string>
+    <string name="instruction_text">Please press the continue button &amp; this will show the device\'s IMEI information screen.\n \n
+    If you are able to see the dial pad with number<b> "*#06#"</b> then please delete <b>"#"</b> and type <b>"#" </b>again within 10 seconds and
+    before you hear the beep sound or feel vibration.\n \n
+    In case you are unable to delete and retype <b>"#"</b> within 10 seconds and hear the beep sound or feel vibration,
+    you will be asked to try again.
+    </string>
+
+    <string name="battery">Note: Back camera LED flash, Vibrator and Bluetooth will be turned on automatically.
+        After completion of the test, these will be turned off automatically.
+        During test do not connect to AC charger or Wireless charger or computer via USB cable.</string>
+
+    <string name="upload_text">Your QC Certificate is successfully uploaded on the cloud. Download from partner portal <u>qc.xtracover.com.</u> Use the IMEI/Certificate Number to search.</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="app_version_1_00">Version: 1.00</string>
+
+</resources>

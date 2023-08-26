@@ -1,0 +1,96 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_08_11_2022/app/src/main/res/layout/activity_all_test_data_save.xml" value="0.4" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_08_11_2022/app/src/main/res/layout/activity_certificate_of_test.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_08_11_2022/app/src/main/res/layout/activity_get_in_touch.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_08_11_2022/app/src/main/res/layout/activity_show_empty_results.xml" value="0.4" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout-v26/activity_loud_speaker.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_audio_playback.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_automatice_test.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_back_camera.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_back_camera_test_al.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_back_camera_test_alactivity.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_back_camera_test_bl.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_back_video_recording.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_battery.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_battery_charging_capacity.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_battery_start_test.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_battery_stress_test.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_battery_stress_test_complete.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_battery_test_results.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_biometric.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_bluetooth.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_calling_sim_one.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_calling_sim_two.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_camera_auto_focus.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_certificate_of_test.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_charging_test.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_cpu_performance.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_dead_pixel_check.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_device_temperature.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_display_and_touch_screen.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_display_brightness.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_earphone_j_m_k.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_flash_front_torch.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_fm_radio.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_front_camera.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_front_camera_test_al.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_front_camera_test_bl.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_front_video_recording.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_get_in_touch.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_gr_hu_md_sd_sc_uv_ls_ir_has.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_gyroscope_gaming_sensor.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_imei_instruction.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_imei_validation.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_internal_external_storage.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_loud_speaker.xml" value="0.264" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_loud_speaker1.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_microphone.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_multi_touch_test.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_multi_touch_test1.xml" value="0.264" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_network_signal_first_second.xml" value="0.264" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_nfc_sensor.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_nfc_test.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_noise_cancellation.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_orientation.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_otg.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_proximity.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_receiver.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_run_battery_stress_test.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_screen_lock.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_show_empty_results.xml" value="0.264" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_show_test_options.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_splash_screen.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_terms_condition.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_usb_charging.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_usb_test.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_valume_up_down_h_b_p_k.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_vibrate.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_volte_calling.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/activity_wifi_internet_gps.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/gallery_images_relative_layout_camera.xml" value="0.19453125" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/layout/spintextview.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_11_08_2022/app/src/main/res/xml/provider_paths.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_17_Nov_2022/app/src/main/res/layout/activity_all_test_data_save.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_17_Nov_2022/app/src/main/res/layout/activity_camera_auto_focus.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_17_Nov_2022/app/src/main/res/layout/activity_earphone_j_m_k.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_17_Nov_2022/app/src/main/res/layout/activity_get_in_touch.xml" value="0.11927083333333334" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_17_Nov_2022/app/src/main/res/layout/activity_imei_instruction.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_17_Nov_2022/app/src/main/res/layout/activity_multi_touch_test1.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_17_Nov_2022/app/src/main/res/layout/activity_proximity.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_17_Nov_2022/app/src/main/res/layout/activity_receiver.xml" value="0.259375" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_17_Nov_2022/app/src/main/res/layout/activity_show_empty_results.xml" value="0.17785714285714285" />
+        <entry key="..\:/Users/ATPL/AndroidStudioProjects/XcQcApp_Automatic_Latest_17_Nov_2022/app/src/main/res/layout/activity_touch_screen_test.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">18dp</dimen>
+    <dimen name="medium_margin">20dp</dimen>
+    <dimen name="large_margin">22dp</dimen>
+    <dimen name="big_large_margin">24dp</dimen>
+    <dimen name="bigone_large_margin">26dp</dimen>
+    <dimen name="small_margin">16dp</dimen>
+    <dimen name="simpllest_margin">14dp</dimen>
+    <dimen name="simplle_margin">14dp</dimen>
+    <dimen name="margin_smallest">15dp</dimen>
+    <dimen name="corner_radius">2dp</dimen>
+    <dimen name="layer_padding">3dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">156dp</dimen>
+    <dimen name="fourteensp">14sp</dimen>
+</resources>

@@ -1,0 +1,1093 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:363:9-371:20
+	android:grantUriPermissions
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:367:13-47
+	android:authorities
+		INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:365:13-64
+	android:exported
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:366:13-37
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:364:13-62
+manifest
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:2:1-374:12
+INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:2:1-374:12
+INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:2:1-374:12
+INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:2:1-374:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c8d26e525e43f3fbecd18e8b3c71374d\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\20422eeb9b0d6730d6abd9feed89680b\transformed\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\21fb29dd45331aa30fcdbb101bd05eb0\transformed\jetified-android-gif-drawable-1.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\d4dc5d355cc1fe298e35f54ae730ffe7\transformed\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fb9ab5cbb012fa3c1e92ea93c3ca99e\transformed\jetified-rxandroid-2.0.2\AndroidManifest.xml:15:1-21:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c69647d481d0df9bec48ac2ccc4af5db\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\143d92f6a7508ab68194c9b1562cbd4e\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c76c2cd28734312e0da9c88721f762f2\transformed\jetified-glide-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.MikeOrtiz:TouchImageView:1.4.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\556663e1497a469ae82b2e16f0656e31\transformed\jetified-TouchImageView-1.4.1\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ae9da430f12c8e74dfcb5a3926e329a7\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\4e172ce50e4c1e907bdd4a1f3dd3fbdb\transformed\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\0723fe7ecd4c2478c3e1bb5dcd2061ba\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\cc7dbac8ba4926374277c77d0a20ef1b\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\bff03657927e88e2f16c8a1c1371e318\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c3c666ebddef83edc8cf9d1c4b1de4a7\transformed\jetified-play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380a785ead398c859fead0d187b9962c\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\6aea6b183770c4dfbea99efd212fa6f4\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\6984cba9be943a9567ec40e09072beaf\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\8a40c5c6beb042c4f1db1e22f850722e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b151e448e360ea90e9c32f56655f6457\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e987749f63068a1794847e2301a47d83\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\904f5577ecafbed07a533338a05cdf1a\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\9b6cc75e89d4038448f147e4b5cd437c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\6e2db4046e3c771974d859b9678449f2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\7405f0ccd256d79609480792c9e36ea6\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\f272c83ce99c65a36b1ec4addef4bce9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e1c3d84f7e10301771a694b3f57c324a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\1e883fcca4be0e4894b79c7ad7799303\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\bf370468e921ad801968f6834090cebc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\49fa8ed03dbf63e3c512395961f08f85\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\70151c5920c4591167abb899c9f7dabf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e5adcc27df50a79beaff0d901fa0f09e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ff5df5bcdf69debbf1e3067aa1d51dbb\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c9db1d01625fa279f6f54b47d71dc4f6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\69ec0e7b032d979a0b7bec4a6ef7286d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\42fc10495a8bc8a878c7280888ad32dd\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\0c11a4ffdfed5eecf03d4da26ae0c052\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\378f8d1f5d9e8f2dccf5622b520d15a5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ab7c085cac4d28c8303515c95cb9326f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\505de600aa4018a4ea561fb02bd5bc14\transformed\jetified-gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\4044ee456880aca44a0c01cab4b60253\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ef5e09bbc2d203544cd4ae1c7d55b7ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\1545aa21ab819d0f8ce9206dca71858d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f607d66b3fe72aa1e03275c59c21e0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\1f6dfcb72bbd400df1602918b0934fe7\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e8e941857ada21fecad4d258957962e3\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\342de189d270b2b14d86741be167320b\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\523bf1cf31f39eb1680ec6f5da448147\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\78aa7a3e878a0fad11aa8ac6ba540a8d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\fba5bc5fba61732c0925c2efa98b006a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2d239d6a3b165f234e588104d93b0bc4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:2:1-374:12
+INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:2:1-374:12
+INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:2:1-374:12
+	package
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:2:1-374:12
+		INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:2:1-374:12
+		INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:2:11-69
+queries
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:6:5-10:15
+intent#action:name:android.speech.RecognitionService
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:7:9-9:18
+action#android.speech.RecognitionService
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:8:13-72
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:8:21-69
+uses-sdk
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:12:5-14:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c8d26e525e43f3fbecd18e8b3c71374d\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c8d26e525e43f3fbecd18e8b3c71374d\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\20422eeb9b0d6730d6abd9feed89680b\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\20422eeb9b0d6730d6abd9feed89680b\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\21fb29dd45331aa30fcdbb101bd05eb0\transformed\jetified-android-gif-drawable-1.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\21fb29dd45331aa30fcdbb101bd05eb0\transformed\jetified-android-gif-drawable-1.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\d4dc5d355cc1fe298e35f54ae730ffe7\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\d4dc5d355cc1fe298e35f54ae730ffe7\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fb9ab5cbb012fa3c1e92ea93c3ca99e\transformed\jetified-rxandroid-2.0.2\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fb9ab5cbb012fa3c1e92ea93c3ca99e\transformed\jetified-rxandroid-2.0.2\AndroidManifest.xml:19:5-43
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c69647d481d0df9bec48ac2ccc4af5db\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c69647d481d0df9bec48ac2ccc4af5db\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\143d92f6a7508ab68194c9b1562cbd4e\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\143d92f6a7508ab68194c9b1562cbd4e\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c76c2cd28734312e0da9c88721f762f2\transformed\jetified-glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c76c2cd28734312e0da9c88721f762f2\transformed\jetified-glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.MikeOrtiz:TouchImageView:1.4.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\556663e1497a469ae82b2e16f0656e31\transformed\jetified-TouchImageView-1.4.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.MikeOrtiz:TouchImageView:1.4.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\556663e1497a469ae82b2e16f0656e31\transformed\jetified-TouchImageView-1.4.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ae9da430f12c8e74dfcb5a3926e329a7\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ae9da430f12c8e74dfcb5a3926e329a7\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\4e172ce50e4c1e907bdd4a1f3dd3fbdb\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\4e172ce50e4c1e907bdd4a1f3dd3fbdb\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\0723fe7ecd4c2478c3e1bb5dcd2061ba\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\0723fe7ecd4c2478c3e1bb5dcd2061ba\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\cc7dbac8ba4926374277c77d0a20ef1b\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\cc7dbac8ba4926374277c77d0a20ef1b\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\bff03657927e88e2f16c8a1c1371e318\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\bff03657927e88e2f16c8a1c1371e318\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c3c666ebddef83edc8cf9d1c4b1de4a7\transformed\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c3c666ebddef83edc8cf9d1c4b1de4a7\transformed\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380a785ead398c859fead0d187b9962c\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380a785ead398c859fead0d187b9962c\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\6aea6b183770c4dfbea99efd212fa6f4\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\6aea6b183770c4dfbea99efd212fa6f4\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\6984cba9be943a9567ec40e09072beaf\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\6984cba9be943a9567ec40e09072beaf\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\8a40c5c6beb042c4f1db1e22f850722e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\8a40c5c6beb042c4f1db1e22f850722e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b151e448e360ea90e9c32f56655f6457\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b151e448e360ea90e9c32f56655f6457\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e987749f63068a1794847e2301a47d83\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e987749f63068a1794847e2301a47d83\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\904f5577ecafbed07a533338a05cdf1a\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\904f5577ecafbed07a533338a05cdf1a\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\9b6cc75e89d4038448f147e4b5cd437c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\9b6cc75e89d4038448f147e4b5cd437c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\6e2db4046e3c771974d859b9678449f2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\6e2db4046e3c771974d859b9678449f2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\7405f0ccd256d79609480792c9e36ea6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\7405f0ccd256d79609480792c9e36ea6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\f272c83ce99c65a36b1ec4addef4bce9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\f272c83ce99c65a36b1ec4addef4bce9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e1c3d84f7e10301771a694b3f57c324a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e1c3d84f7e10301771a694b3f57c324a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\1e883fcca4be0e4894b79c7ad7799303\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\1e883fcca4be0e4894b79c7ad7799303\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\bf370468e921ad801968f6834090cebc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\bf370468e921ad801968f6834090cebc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\49fa8ed03dbf63e3c512395961f08f85\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\49fa8ed03dbf63e3c512395961f08f85\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\70151c5920c4591167abb899c9f7dabf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\70151c5920c4591167abb899c9f7dabf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e5adcc27df50a79beaff0d901fa0f09e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e5adcc27df50a79beaff0d901fa0f09e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ff5df5bcdf69debbf1e3067aa1d51dbb\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ff5df5bcdf69debbf1e3067aa1d51dbb\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c9db1d01625fa279f6f54b47d71dc4f6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c9db1d01625fa279f6f54b47d71dc4f6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\69ec0e7b032d979a0b7bec4a6ef7286d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\69ec0e7b032d979a0b7bec4a6ef7286d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\42fc10495a8bc8a878c7280888ad32dd\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\42fc10495a8bc8a878c7280888ad32dd\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\0c11a4ffdfed5eecf03d4da26ae0c052\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\0c11a4ffdfed5eecf03d4da26ae0c052\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\378f8d1f5d9e8f2dccf5622b520d15a5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\378f8d1f5d9e8f2dccf5622b520d15a5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ab7c085cac4d28c8303515c95cb9326f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ab7c085cac4d28c8303515c95cb9326f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\505de600aa4018a4ea561fb02bd5bc14\transformed\jetified-gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\505de600aa4018a4ea561fb02bd5bc14\transformed\jetified-gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\4044ee456880aca44a0c01cab4b60253\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\4044ee456880aca44a0c01cab4b60253\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ef5e09bbc2d203544cd4ae1c7d55b7ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ef5e09bbc2d203544cd4ae1c7d55b7ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\1545aa21ab819d0f8ce9206dca71858d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\1545aa21ab819d0f8ce9206dca71858d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f607d66b3fe72aa1e03275c59c21e0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f607d66b3fe72aa1e03275c59c21e0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\1f6dfcb72bbd400df1602918b0934fe7\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\1f6dfcb72bbd400df1602918b0934fe7\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e8e941857ada21fecad4d258957962e3\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\e8e941857ada21fecad4d258957962e3\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\342de189d270b2b14d86741be167320b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\342de189d270b2b14d86741be167320b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\523bf1cf31f39eb1680ec6f5da448147\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\523bf1cf31f39eb1680ec6f5da448147\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\78aa7a3e878a0fad11aa8ac6ba540a8d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\78aa7a3e878a0fad11aa8ac6ba540a8d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\fba5bc5fba61732c0925c2efa98b006a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\fba5bc5fba61732c0925c2efa98b006a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2d239d6a3b165f234e588104d93b0bc4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2d239d6a3b165f234e588104d93b0bc4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:12:5-14:41
+	android:targetSdkVersion
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:14:9-38
+		INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:13:9-35
+		INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:16:5-22:40
+	android:largeScreens
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:18:9-36
+	android:smallScreens
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:21:9-36
+	android:normalScreens
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:19:9-37
+	android:xlargeScreens
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:22:9-37
+	android:resizeable
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:20:9-34
+	android:anyDensity
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:17:9-34
+uses-permission#android.permission.SET_TIME
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:24:5-27:48
+	tools:ignore
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:26:9-44
+	tools:remove
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:27:9-45
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:25:9-51
+permission#android.permission.SET_TIME
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:29:5-32:51
+	android:protectionLevel
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:31:9-51
+	tools:ignore
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:32:9-48
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:30:9-51
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:34:5-76
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:34:19-73
+uses-permission#android.permission.ANSWER_PHONE_CALLS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:36:5-77
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:36:22-74
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:37:5-85
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:37:22-82
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:38:5-68
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:38:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:39:5-74
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:39:22-71
+uses-feature#android.hardware.sensor.proximity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:41:5-43:35
+	android:required
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:43:9-32
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:42:9-57
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:44:5-46:35
+	android:required
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:46:9-32
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:45:9-57
+uses-permission#android.permission.BLUETOOTH_ADVERTISE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:48:5-78
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:48:22-75
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:49:5-76
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:49:22-73
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:50:5-85
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:50:22-82
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:51:5-53:58
+	android:usesPermissionFlags
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:53:9-55
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:52:9-57
+uses-feature#android.hardware.bluetooth
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:54:5-56:36
+	android:required
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:56:9-33
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:55:9-50
+uses-feature#android.hardware.bluetooth_le
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:57:5-59:36
+	android:required
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:59:9-33
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:58:9-53
+uses-feature#android.hardware.BLUETOOTH
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:60:5-62:36
+	android:required
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:62:9-33
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:61:9-50
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:64:5-79
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:64:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:65:5-81
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:65:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:66:5-79
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:66:22-76
+uses-permission#android.permission.CAMERA
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:67:5-65
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:67:22-62
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:68:5-74
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:68:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:69:5-66
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:69:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:70:5-81
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:70:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:71:5-80
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:71:22-77
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:72:5-74:40
+	tools:ignore
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:74:9-37
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:73:9-66
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:75:5-81
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:75:22-78
+uses-permission#android.permission.ACCESS_MEDIA_LOCATION
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:76:5-80
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:76:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:77:5-67
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:77:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:78:5-76
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:78:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:79:5-79
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:79:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:80:5-75
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:80:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:81:5-72
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:81:22-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:82:5-77
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:82:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:83:5-92
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:83:22-89
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:84:5-80
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:84:22-77
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:85:5-75
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:85:22-72
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:86:5-71
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:86:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:87:5-68
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:87:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:88:5-82
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:88:22-79
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:89:5-89
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:89:22-86
+uses-permission#com.samsung.permission.SSENSOR
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:90:5-70
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:90:22-67
+uses-permission#android.permission.SENSORS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:91:5-66
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:91:22-63
+uses-permission#com.samsung.permission.android.permission.BODY_SENSORS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:92:5-94
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:92:22-91
+uses-permission#com.samsung.permission.SSENSOR_HRM_RAW_PPG
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:93:5-82
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:93:22-79
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:95:5-97:47
+	tools:ignore
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:97:9-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:96:9-61
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:98:5-69
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:98:22-66
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:99:5-81
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:99:22-78
+uses-permission#android.permission.BODY_SENSORS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:100:5-71
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:100:22-68
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:101:5-103:47
+	tools:ignore
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:103:9-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:102:9-57
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:104:5-106:47
+	tools:ignore
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:106:9-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:105:9-64
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:108:5-72
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:108:22-69
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:109:5-93
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:109:22-90
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:110:5-76
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:110:22-73
+uses-permission#android.permission.USB_PERMISSION
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:111:5-73
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:111:22-70
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:112:5-71
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:112:22-68
+uses-permission#android.permission.TRANSMIT_IR
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:113:5-70
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:113:22-67
+uses-permission#android.permission.NFC
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:114:5-62
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:114:22-59
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:115:5-71
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:115:22-68
+uses-permission#android.permission.MICROPHONE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:116:5-69
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:116:22-66
+uses-permission#android.permission.INTERNAL_SYSTEM_WINDOW
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:117:5-119:47
+	tools:ignore
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:119:9-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:118:9-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:120:5-78
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:120:22-75
+uses-permission#android.permission.REBOOT
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:121:5-123:47
+	tools:ignore
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:123:9-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:122:9-49
+uses-permission#android.permission.ACTION_MANAGE_OVERLAY_PERMISSION
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:124:5-91
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:124:22-88
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:125:5-117
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:125:22-114
+uses-permission#android.permission.LOCAL_MAC_ADDRESS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:126:5-128:47
+	tools:ignore
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:128:9-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:127:9-60
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:129:5-131:47
+	tools:ignore
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:131:9-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:130:9-70
+uses-feature#android.hardware.camera
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:133:5-60
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:133:19-57
+uses-feature#android.hardware.camera2.full
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:134:5-66
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:134:19-63
+uses-feature#android.hardware.camera.front
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:135:5-66
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:135:19-63
+uses-feature#android.hardware.camera.flash
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:136:5-66
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:136:19-63
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:137:5-70
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:137:19-67
+uses-feature#android.hardware.usb.host
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:138:5-140:36
+	android:required
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:140:9-33
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:139:9-49
+uses-feature#android.hardware.nfc
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:141:5-143:35
+	android:required
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:143:9-32
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:142:9-44
+application
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:145:5-372:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c8d26e525e43f3fbecd18e8b3c71374d\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c8d26e525e43f3fbecd18e8b3c71374d\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\85a2ba774ec1874c47edb06f44498dbd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c69647d481d0df9bec48ac2ccc4af5db\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c69647d481d0df9bec48ac2ccc4af5db\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\143d92f6a7508ab68194c9b1562cbd4e\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\143d92f6a7508ab68194c9b1562cbd4e\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c76c2cd28734312e0da9c88721f762f2\transformed\jetified-glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\c76c2cd28734312e0da9c88721f762f2\transformed\jetified-glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.MikeOrtiz:TouchImageView:1.4.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\556663e1497a469ae82b2e16f0656e31\transformed\jetified-TouchImageView-1.4.1\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.MikeOrtiz:TouchImageView:1.4.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\556663e1497a469ae82b2e16f0656e31\transformed\jetified-TouchImageView-1.4.1\AndroidManifest.xml:11:5-14:19
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\cc7dbac8ba4926374277c77d0a20ef1b\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\cc7dbac8ba4926374277c77d0a20ef1b\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\bff03657927e88e2f16c8a1c1371e318\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\bff03657927e88e2f16c8a1c1371e318\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380a785ead398c859fead0d187b9962c\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380a785ead398c859fead0d187b9962c\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\6aea6b183770c4dfbea99efd212fa6f4\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\6aea6b183770c4dfbea99efd212fa6f4\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ff5df5bcdf69debbf1e3067aa1d51dbb\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ff5df5bcdf69debbf1e3067aa1d51dbb\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\086048bd0b6a6bf655f4694648e3d9ba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\505de600aa4018a4ea561fb02bd5bc14\transformed\jetified-gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\505de600aa4018a4ea561fb02bd5bc14\transformed\jetified-gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ef5e09bbc2d203544cd4ae1c7d55b7ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ef5e09bbc2d203544cd4ae1c7d55b7ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:requestLegacyExternalStorage
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:152:9-52
+	android:roundIcon
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:153:9-55
+	android:allowTaskReparenting
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:147:9-44
+	android:largeHeap
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:151:9-33
+	android:icon
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:149:9-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ff5df5bcdf69debbf1e3067aa1d51dbb\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:154:9-35
+	android:label
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:150:9-41
+		REJECTED from [com.github.MikeOrtiz:TouchImageView:1.4.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\556663e1497a469ae82b2e16f0656e31\transformed\jetified-TouchImageView-1.4.1\AndroidManifest.xml:13:9-41
+	android:hardwareAccelerated
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:148:9-44
+	tools:targetApi
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:158:9-28
+	android:allowBackup
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:146:9-35
+		REJECTED from [com.github.MikeOrtiz:TouchImageView:1.4.1] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\556663e1497a469ae82b2e16f0656e31\transformed\jetified-TouchImageView-1.4.1\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:155:9-41
+	tools:replace
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:157:9-61
+	android:usesCleartextTraffic
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:156:9-44
+activity#com.xtracover.xcqc.Activities.GradingActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:159:9-162:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:162:13-49
+	android:exported
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:161:13-37
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:160:13-55
+activity#com.xtracover.xcqc.Activities.AllTestDataSaveActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:163:9-165:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:165:13-49
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:164:13-63
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.NfcTestActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:166:9-170:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:170:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:169:13-44
+	android:exported
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:168:13-37
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:167:13-74
+activity#com.xtracover.xcqc.BatteryStressTestActivities.BatteryStartTestActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:171:9-174:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:174:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:173:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:172:13-81
+activity#com.xtracover.xcqc.BatteryStressTestActivities.BatteryTestResultsActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:175:9-178:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:178:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:177:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:176:13-83
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FrontCameraTestALActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:179:9-183:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:183:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:182:13-44
+	android:hardwareAccelerated
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:181:13-47
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:180:13-88
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BackCameraTestALActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:184:9-188:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:188:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:187:13-44
+	android:hardwareAccelerated
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:186:13-47
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:185:13-87
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.ImeiValidationActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:189:9-90
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:189:19-87
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.DeviceTemperatureActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:190:9-193:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:193:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:192:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:191:13-84
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.CpuPerformanceActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:194:9-197:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:197:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:196:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:195:13-81
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.OrientationActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:198:9-200:47
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:200:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:199:13-78
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.FmRadioActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:201:9-204:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:204:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:203:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:202:13-74
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.NfcSensorActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:205:9-208:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:208:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:207:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:206:13-76
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.GrHuMdSdScUvLsIrHasActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:209:9-211:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:211:13-49
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:210:13-86
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.BiometricTestActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:212:9-215:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:215:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:214:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:213:13-80
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.GyroscopeGamingSensorActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:216:9-218:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:218:13-49
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:217:13-88
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.OtgActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:219:9-222:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:222:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:221:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:220:13-70
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.UsbTestActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:223:9-226:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:226:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:225:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:224:13-74
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.ChargingTestActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:227:9-230:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:230:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:229:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:228:13-79
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.VolumeUpDownHBPKActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:231:9-233:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:233:13-49
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:232:13-83
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.ProximityActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:234:9-237:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:237:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:236:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:235:13-76
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.InternalExternalStorageActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:238:9-240:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:240:13-49
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:239:13-90
+activity#com.xtracover.xcqc.OthersTestAndRetestActivities.BatteryActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:241:9-244:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:244:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:243:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:242:13-74
+activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.NetworkSignalFirstSecondActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:245:9-247:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:247:13-49
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:246:13-92
+activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.WifiInternetGpsActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:248:9-250:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:250:13-49
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:249:13-83
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FlashFrontTorchActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:251:9-253:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:253:13-49
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:252:13-86
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.MicrophoneActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:254:9-257:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:257:13-49
+	android:hardwareAccelerated
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:256:13-47
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:255:13-81
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.AudioPlaybackActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:258:9-261:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:261:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:260:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:259:13-84
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.ReceiverActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:262:9-265:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:265:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:264:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:263:13-79
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.LoudSpeakerActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:266:9-269:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:269:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:268:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:267:13-82
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.EarphoneJMKActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:270:9-272:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:272:13-49
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:271:13-82
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BluetoothActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:273:9-275:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:275:13-49
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:274:13-80
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FrontVideoRecordingActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:276:9-280:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:280:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:279:13-44
+	android:hardwareAccelerated
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:278:13-47
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:277:13-90
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BackVideoRecordingActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:281:9-285:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:285:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:284:13-44
+	android:hardwareAccelerated
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:283:13-47
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:282:13-89
+activity#com.xtracover.xcqc.AudioVideoTestAndRetestActivities.CameraAutoFocusActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:286:9-290:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:290:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:289:13-44
+	android:hardwareAccelerated
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:288:13-47
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:287:13-86
+activity#com.xtracover.xcqc.DisplayTestAndRetestActivities.DisplayBrightnessActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:291:9-294:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:294:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:293:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:292:13-85
+activity#com.xtracover.xcqc.DisplayTestAndRetestActivities.MultiTouchTestActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:295:9-299:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:299:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:298:13-44
+	android:hardwareAccelerated
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:297:13-47
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:296:13-82
+activity#com.xtracover.xcqc.DisplayTestAndRetestActivities.DisplayAndTouchScreenActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:300:9-304:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:304:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:303:13-44
+	android:hardwareAccelerated
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:302:13-47
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:301:13-89
+activity#com.xtracover.xcqc.DisplayTestAndRetestActivities.DeadPixelCheckActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:305:9-308:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:308:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:307:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:306:13-82
+activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.VolteCallingActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:309:9-312:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:312:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:311:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:310:13-80
+activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.CallingSimTwoActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:313:9-316:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:316:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:315:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:314:13-81
+activity#com.xtracover.xcqc.NetworkTestAndRetestActivities.CallingSimOneActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:317:9-320:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:320:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:319:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:318:13-81
+activity#com.xtracover.xcqc.Activities.CertificateOfTestActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:321:9-324:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:324:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:323:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:322:13-65
+activity#com.xtracover.xcqc.Activities.ShowEmptyResultsActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:325:9-327:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:327:13-49
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:326:13-64
+activity#com.xtracover.xcqc.Activities.TermsConditionActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:328:9-331:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:331:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:330:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:329:13-62
+activity#com.xtracover.xcqc.Activities.ImeiInstructionActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:332:9-335:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:335:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:334:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:333:13-63
+activity#com.xtracover.xcqc.Activities.GetInTouchActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:336:9-339:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:339:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:338:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:337:13-58
+activity#com.xtracover.xcqc.Activities.LoginActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:340:9-343:52
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:343:13-49
+	android:launchMode
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:342:13-44
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:341:13-53
+activity#com.xtracover.xcqc.SplashScreenActivity
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:344:9-353:20
+	android:screenOrientation
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:347:13-49
+	android:exported
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:346:13-36
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:345:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:348:13-352:29
+action#android.intent.action.MAIN
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:349:17-69
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:349:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:351:17-77
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:351:27-74
+service#com.xtracover.xcqc.Services.ScreenCaptureService
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:355:9-361:35
+	android:enabled
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:357:13-35
+	android:exported
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:358:13-36
+	tools:targetApi
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:361:13-32
+	android:stopWithTask
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:360:13-40
+	android:foregroundServiceType
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:359:13-60
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:356:13-58
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:368:13-370:58
+	android:resource
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:370:17-55
+	android:name
+		ADDED from D:\Automation Project\XcQcApp_Automatic_Latest_24_Jul_2023\app\src\main\AndroidManifest.xml:369:17-67
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ef5e09bbc2d203544cd4ae1c7d55b7ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\ef5e09bbc2d203544cd4ae1c7d55b7ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aashish Vishavkarma\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
