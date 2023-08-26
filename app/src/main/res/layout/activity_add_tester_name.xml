@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Activities.AddTesterNameActivity">
+
+    <TextView
+        android:id="@+id/back_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:drawableLeft="@drawable/ic_left_arrow_small"
+        android:drawablePadding="10dp"
+        android:text="Tester Information"
+        android:textAppearance="@style/Primarybold_Text24"
+        android:textColor="#2f4fa7" />
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/back_text"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:orientation="horizontal"
+        android:paddingLeft="32dp">
+
+        <View
+            android:layout_width="120dp"
+            android:layout_height="5dp"
+            android:background="#ff0000" />
+
+        <View
+            android:layout_width="70dp"
+            android:layout_height="5dp"
+            android:background="#2234AC" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/testerInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear"
+        android:layout_margin="16dp"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:visibility="visible">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2dp"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="start"
+            android:text="Tester ID"
+            android:textAppearance="@style/darkPrimary_Text14"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/testerId_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_background_gray"
+            android:gravity="start"
+            android:hint=""
+            android:inputType="number"
+            android:maxLength="16"
+            android:padding="16dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:visibility="visible" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/saveTesterInfo"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/round_barder_background"
+        android:text="Save"
+        android:textAllCaps="false"
+        android:textAppearance="@style/Primarybold_Text20"
+        android:textColor="@android:color/white" />
+</RelativeLayout>

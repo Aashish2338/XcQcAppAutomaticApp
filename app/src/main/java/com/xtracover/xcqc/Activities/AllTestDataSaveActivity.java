@@ -137,23 +137,27 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
 
     private TextView txt_chargeCapacity, txt_deviceTemp, txt_resultpass, txt_version;
 
-    private String networkSignalSim1 = "", networkSignalSim2 = "", wiFi = "", internet = "", gPS = "", backCamera = "", frontCamera = "",
-            cameraAutoFocus = "", backVideoRecording = "", frontVideoRecording = "", bluetooth = "", audioPlakbackTest = "", battery = "",
-            internalStorage = "", externalStorage = "", gyroscope = "", gyroscopeGaming = "", gravity = "", humidity = "", motionDetector = "",
-            stepDetector = "", stepCounter = "", light = "", infrared = "", hallSensor = "", deviceTemperature = "", fmradio = "", proximity = "",
-            displayTouchScreen = "", multifingertest = "", displayBrightness = "", earphone = "", earphoneJack = "", handsetmickeys = "",
-            handsetmic = "", microphone = "", noiseCancellationTest = "", loudSpeaker = "", frontspeaker = "", flash = "", frontcameraflash = "",
-            vibrate = "", volumeUpButton = "", volumeDownButton = "", homeKey = "", backKey = "", powerKey = "", screenLock = "", menuKey = "",
-            uSB = "", chargingTest = "", otgTest = "", biometric = "", nFC = "", orientation = "", callSIM1 = "", callSIM2 = "", volteCallingTest = "",
-            dEADPIXELCHECK = "";
+    private String networkSignalSim1 = "", networkSignalSim2 = "", wiFi = "", internet = "", gPS = "",
+            backCamera = "", frontCamera = "", cameraAutoFocus = "", backVideoRecording = "", frontVideoRecording = "",
+            bluetooth = "", audioPlakbackTest = "", battery = "", internalStorage = "", externalStorage = "", gyroscope = "",
+            gyroscopeGaming = "", gravity = "", humidity = "", motionDetector = "", stepDetector = "", stepCounter = "", light = "",
+            infrared = "", hallSensor = "", deviceTemperature = "", fmradio = "", proximity = "", displayTouchScreen = "",
+            multifingertest = "", displayBrightness = "", earphone = "", earphoneJack = "", handsetmickeys = "",
+            handsetmic = "", microphone = "", noiseCancellationTest = "", loudSpeaker = "", frontspeaker = "",
+            flash = "", frontcameraflash = "", vibrate = "", volumeUpButton = "", volumeDownButton = "", homeKey = "",
+            backKey = "", powerKey = "", screenLock = "", menuKey = "", uSB = "", chargingTest = "", otgTest = "",
+            biometric = "", nFC = "", orientation = "", callSIM1 = "", callSIM2 = "", volteCallingTest = "", dEADPIXELCHECK = "",
+            testerId = "";
 
-    private String str_checkPixel, str_displayDeadPixel, str_touchScreen, str_multiTouch, str_brightness, str_backcamera, str_frontCamera, str_autoFocus,
-            str_backVideo, str_frontVideo, str_bluetooth, str_earphone, str_earphoneJack, str_loudspeaker, str_frontSpeaker, str_microphone, str_flash,
-            str_torch, str_light, str_callSim1, str_callSim2, str_wiFi, str_internet, str_gps, str_signal1, str_signal2, str_imeiValidation, str_vibrate,
-            str_battery, str_internalStorage, str_externalStorage, str_proximity, str_volUp, str_volDown, str_homekey, str_backKey, str_menuKey,
-            str_powerKey, str_usb, str_charging, str_otg, str_gyroscope, str_screenLock, str_biometric, str_deviceTemp, str_airPressure, str_airTemp,
-            str_gravity, str_gyroscopeGaming, str_humidity, str_hrm, str_motionDetector, str_stepCounter, str_stepDetector, str_uvSensor, str_orientation,
-            str_volteCalling, str_infrared, str_nfc, str_fmRadio, str_earphoneMic, str_earphoneKey, str_audioPlayback, str_hallSensor,
+    private String str_checkPixel, str_displayDeadPixel, str_touchScreen, str_multiTouch, str_brightness, str_backcamera,
+            str_frontCamera, str_autoFocus, str_backVideo, str_frontVideo, str_bluetooth, str_earphone, str_earphoneJack,
+            str_loudspeaker, str_frontSpeaker, str_microphone, str_flash, str_torch, str_light, str_callSim1, str_callSim2,
+            str_wiFi, str_internet, str_gps, str_signal1, str_signal2, str_imeiValidation, str_vibrate, str_battery,
+            str_internalStorage, str_externalStorage, str_proximity, str_volUp, str_volDown, str_homekey, str_backKey,
+            str_menuKey, str_powerKey, str_usb, str_charging, str_otg, str_gyroscope, str_screenLock, str_biometric,
+            str_deviceTemp, str_airPressure, str_airTemp, str_gravity, str_gyroscopeGaming, str_humidity, str_hrm,
+            str_motionDetector, str_stepCounter, str_stepDetector, str_uvSensor, str_orientation, str_volteCalling,
+            str_infrared, str_nfc, str_fmRadio, str_earphoneMic, str_earphoneKey, str_audioPlayback, str_hallSensor,
             str_noiseCancellation, str_frontFlash, str_cpuPerformance, str_batteryStorage, cpuPerformanceStatus;
 
     private JsonObject testReportStatus = null;
@@ -170,9 +174,7 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
     private double batteryCapacity = 0.0;
 
     private String str_ServiceKey, strDeviceTemp, loginCodeName, password = "", allTest = "", str_QCResult, dateTime = "", ram = "", grade_name = "";
-    private String imei11, imei22, macAddress, empCode, empName, partnerID, str_workOrderId, str_DeviceID, brand_name,
-            model_name, deviceName, rear_camera_mp, front_camera_mp, screen_size, storage1, processor_core, battery_capacity, os_version,
-            serial_number, build_id, os, physicalCondition = "", Screensize = "", device_id = "";
+    private String imei11, imei22, macAddress, empCode, empName, partnerID, str_workOrderId, str_DeviceID, brand_name, model_name, deviceName, rear_camera_mp, front_camera_mp, screen_size, storage1, processor_core, battery_capacity, os_version, serial_number, build_id, os, physicalCondition = "", Screensize = "", device_id = "";
     private ProgressDialog progressDialog;
 
     private TextToSpeech textToSpeech;
@@ -185,7 +187,7 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_all_test_data_save);
-        setRequestedOrientation (ActivityInfo.SCREEN_ORIENTATION_LOCKED);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LOCKED);
         mContext = this;
         userSession = new UserSession(mContext);
         disposable = new CompositeDisposable();
@@ -210,6 +212,7 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
         str_workOrderId = sharedPreferences.getString("workOrderNo", "");
         partnerID = sharedPreferences.getString("partnerID", "");
         ram = sharedPreferences.getString("ram", "");
+        testerId = sharedPreferences.getString("testerId", "");
 
         empCode = userSession.getEmpCode();
         empName = userSession.getUserName();
@@ -586,9 +589,8 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
         return dateTime;
     }
 
-    private JSONObject jsonObjectResultsGrade(String certificateNumber, String ram, String date,
-                                              String time, String dateTime, String qcResult,
-                                              String grade, String gradeDefinition, String userId) {
+    private JSONObject jsonObjectResultsGrade(String certificateNumber, String ram, String date, String time, String dateTime,
+                                              String qcResult, String grade, String gradeDefinition, String testerId) {
 
         JSONObject jsonMain = new JSONObject();
         try {
@@ -617,7 +619,7 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
             jsonMain.put("ios_upgrade", "N/A");
             jsonMain.put("battery_health", "");
             jsonMain.put("country_lock", "");
-            jsonMain.put("tester_id", userId); // need value
+            jsonMain.put("tester_id", testerId); // need value
 
 //            JsonParser jsonParser = new JsonParser();
 //            gsonJsonObjectValidate = (JsonObject) jsonParser.parse(jsonMain.toString());
@@ -700,14 +702,10 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
             Method get = c.getMethod("get", String.class);
 
             serialNumber = (String) get.invoke(c, "gsm.sn1");
-            if (serialNumber.equals(""))
-                serialNumber = (String) get.invoke(c, "ril.serialnumber");
-            if (serialNumber.equals(""))
-                serialNumber = (String) get.invoke(c, "ro.serialno");
-            if (serialNumber.equals(""))
-                serialNumber = (String) get.invoke(c, "sys.serialnumber");
-            if (serialNumber.equals(""))
-                serialNumber = Build.SERIAL;
+            if (serialNumber.equals("")) serialNumber = (String) get.invoke(c, "ril.serialnumber");
+            if (serialNumber.equals("")) serialNumber = (String) get.invoke(c, "ro.serialno");
+            if (serialNumber.equals("")) serialNumber = (String) get.invoke(c, "sys.serialnumber");
+            if (serialNumber.equals("")) serialNumber = Build.SERIAL;
 
             if (serialNumber.equals("unknown")) {
                 try {
@@ -724,8 +722,7 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
             }
 
             // If none of the methods above worked
-            if (serialNumber.equals(""))
-                serialNumber = "Not fetched";
+            if (serialNumber.equals("")) serialNumber = "Not fetched";
         } catch (Exception e) {
             e.printStackTrace();
             serialNumber = "Not fetched";
@@ -1622,33 +1619,32 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
             progressDialog.show();
 
             ApiClient apiClient = ApiNetworkClient.getStoreApiRetrofit().create(ApiClient.class);
-            apiClient.getServiceKeyOnIMEI(imei11).subscribeOn(Schedulers.io()).observeOn(AndroidSchedulers.mainThread())
-                    .subscribeWith(new DisposableSingleObserver<ServiceKeysResponse>() {
-                        @Override
-                        public void onSuccess(ServiceKeysResponse serviceKeysResponse) {
-                            if (serviceKeysResponse.getRespMsg().equalsIgnoreCase("SUCCESS")) {
-                                if (progressDialog.isShowing()) {
-                                    progressDialog.dismiss();
-                                }
-                                String str_serviceKey = serviceKeysResponse.getData();
-                                userSession.setServiceKey(str_serviceKey);
-                                System.out.println(str_ServiceKey + ", " + empCode + ", " + imei11 + ", " + model_name + ", " + str_DeviceID + ", " + brand_name);
-                                if (NetworkStatus.isNetworkAvailable(mContext)) {
-                                    setDataToTableForAllTest(str_serviceKey);
-                                }
-                            } else {
-                                Toast.makeText(mContext, "Something went wrong!", Toast.LENGTH_SHORT).show();
-                            }
+            apiClient.getServiceKeyOnIMEI(imei11).subscribeOn(Schedulers.io()).observeOn(AndroidSchedulers.mainThread()).subscribeWith(new DisposableSingleObserver<ServiceKeysResponse>() {
+                @Override
+                public void onSuccess(ServiceKeysResponse serviceKeysResponse) {
+                    if (serviceKeysResponse.getRespMsg().equalsIgnoreCase("SUCCESS")) {
+                        if (progressDialog.isShowing()) {
+                            progressDialog.dismiss();
                         }
+                        String str_serviceKey = serviceKeysResponse.getData();
+                        userSession.setServiceKey(str_serviceKey);
+                        System.out.println(str_ServiceKey + ", " + empCode + ", " + imei11 + ", " + model_name + ", " + str_DeviceID + ", " + brand_name);
+                        if (NetworkStatus.isNetworkAvailable(mContext)) {
+                            setDataToTableForAllTest(str_serviceKey);
+                        }
+                    } else {
+                        Toast.makeText(mContext, "Something went wrong!", Toast.LENGTH_SHORT).show();
+                    }
+                }
 
-                        @Override
-                        public void onError(Throwable e) {
-                            if (progressDialog.isShowing()) {
-                                progressDialog.dismiss();
-                            }
-                            Toast.makeText(getApplicationContext(), "Server Error!", Toast.LENGTH_SHORT).show();
-                        }
-                    });
+                @Override
+                public void onError(Throwable e) {
+                    if (progressDialog.isShowing()) {
+                        progressDialog.dismiss();
+                    }
+                    Toast.makeText(getApplicationContext(), "Server Error!", Toast.LENGTH_SHORT).show();
+                }
+            });
         } catch (Exception exp) {
             exp.getStackTrace();
         }
@@ -1715,8 +1711,8 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
                 String date = getTestDate();
                 String dateTime = getCurrentDateTime();
 
-                gradeJson = new JSONObject(jsonObjectResultsGrade(serviceKey, ram, date, time, dateTime,
-                        "", physicalCondition, physicalCondition, empCode).toString());
+                gradeJson = new JSONObject(jsonObjectResultsGrade(serviceKey, ram, date, time, dateTime, "",
+                        physicalCondition, physicalCondition, testerId).toString());
 
                 param2.put("ObjWarrantyBazzarResult_childmbgrade", gradeJson);
 
@@ -1789,8 +1785,8 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
                 String date = getTestDate();
                 String dateTime = getCurrentDateTime();
 
-                gradeJson = new JSONObject(jsonObjectResultsGrade(serviceKey, ram, date, time, dateTime,
-                        "", physicalCondition, physicalCondition, empCode).toString());
+                gradeJson = new JSONObject(jsonObjectResultsGrade(serviceKey, ram, date, time, dateTime, "",
+                        physicalCondition, physicalCondition, testerId).toString());
 
                 param2.put("ObjWarrantyBazzarResult_childmbgrade", gradeJson);
 
@@ -1830,39 +1826,37 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
 
         try {
             ApiClient apiClient = ApiNetworkClient.getStoreApiRetrofit().create(ApiClient.class);
-            disposable.add(apiClient.getAddNewWarrantyBazzarAppResultWithGrade(jsonObject).subscribeOn(Schedulers.io())
-                    .observeOn(AndroidSchedulers.mainThread()).subscribeWith(new DisposableSingleObserver<ServiceKeysResponse>() {
+            disposable.add(apiClient.getAddNewWarrantyBazzarAppResultWithGrade(jsonObject).subscribeOn(Schedulers.io()).observeOn(AndroidSchedulers.mainThread()).subscribeWith(new DisposableSingleObserver<ServiceKeysResponse>() {
 
-                        @Override
-                        public void onSuccess(ServiceKeysResponse serviceKerResponse) {
-                            if (serviceKerResponse.getRespMsg().equalsIgnoreCase("SUCCESS")) {
-                                if (progressDialog.isShowing()) {
-                                    progressDialog.dismiss();
-                                }
-                                Toast.makeText(mContext, "Data Updated successfully!", Toast.LENGTH_SHORT).show();
-                                System.out.println("Everything is fine Aashish for All Tested Data Saved!");
-                                userSession.setServiceKey(str_serviceKey);
-                                getQcList(str_serviceKey);
-                            } else {
-                                if (progressDialog.isShowing()) {
-                                    progressDialog.dismiss();
-                                }
-                                Toast.makeText(mContext, "Data Updated failed!", Toast.LENGTH_SHORT).show();
-                                getQcList(str_serviceKey);
-                            }
+                @Override
+                public void onSuccess(ServiceKeysResponse serviceKerResponse) {
+                    if (serviceKerResponse.getRespMsg().equalsIgnoreCase("SUCCESS")) {
+                        if (progressDialog.isShowing()) {
+                            progressDialog.dismiss();
                         }
+                        Toast.makeText(mContext, "Data Updated successfully!", Toast.LENGTH_SHORT).show();
+                        System.out.println("Everything is fine Aashish for All Tested Data Saved!");
+                        userSession.setServiceKey(str_serviceKey);
+                        getQcList(str_serviceKey);
+                    } else {
+                        if (progressDialog.isShowing()) {
+                            progressDialog.dismiss();
+                        }
+                        Toast.makeText(mContext, "Data Updated failed!", Toast.LENGTH_SHORT).show();
+                        getQcList(str_serviceKey);
+                    }
+                }
 
-                        @Override
-                        public void onError(@NonNull Throwable e) {
-                            if (progressDialog.isShowing()) {
-                                progressDialog.dismiss();
-                            }
-                            System.out.println("Server Error :- " + e.getMessage());
-                            Toast.makeText(mContext, "Server Error!", Toast.LENGTH_SHORT).show();
-                            getQcList(str_serviceKey);
-                        }
-                    })
-            );
+                @Override
+                public void onError(@NonNull Throwable e) {
+                    if (progressDialog.isShowing()) {
+                        progressDialog.dismiss();
+                    }
+                    System.out.println("Server Error :- " + e.getMessage());
+                    Toast.makeText(mContext, "Server Error!", Toast.LENGTH_SHORT).show();
+                    getQcList(str_serviceKey);
+                }
+            }));
         } catch (Exception exp) {
             if (progressDialog.isShowing()) {
                 progressDialog.dismiss();
@@ -1879,37 +1873,36 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
                 progressDialog.show();
             }
             ApiClient apiClient = ApiNetworkClient.getStoreApiRetrofit().create(ApiClient.class);
-            apiClient.GetQCTestListByserviceKey(serviceKey).subscribeOn(Schedulers.io()).observeOn(AndroidSchedulers.mainThread())
-                    .subscribeWith(new DisposableSingleObserver<QCTestListByserviceKeyResponse>() {
-                        @Override
-                        public void onSuccess(QCTestListByserviceKeyResponse qcTestListByserviceKeyResponse) {
-                            if (qcTestListByserviceKeyResponse.getRespMsg().equalsIgnoreCase("SUCCESS")) {
-                                if (progressDialog.isShowing()) {
-                                    progressDialog.dismiss();
-                                }
-                                qcTestListData = qcTestListByserviceKeyResponse.getQcTestListData();
-                                if (qcTestListData.size() >= 0) {
-                                    System.out.println("Everything is fine Aashish for get Qc Tested list!");
-                                    setQCTestListData(qcTestListData);
-                                } else {
-                                    Toast.makeText(getApplicationContext(), "Data not found!", Toast.LENGTH_SHORT).show();
-                                }
-                            } else {
-                                if (progressDialog.isShowing()) {
-                                    progressDialog.dismiss();
-                                }
-                                Toast.makeText(getApplicationContext(), "Something went wrong!", Toast.LENGTH_SHORT).show();
-                            }
+            apiClient.GetQCTestListByserviceKey(serviceKey).subscribeOn(Schedulers.io()).observeOn(AndroidSchedulers.mainThread()).subscribeWith(new DisposableSingleObserver<QCTestListByserviceKeyResponse>() {
+                @Override
+                public void onSuccess(QCTestListByserviceKeyResponse qcTestListByserviceKeyResponse) {
+                    if (qcTestListByserviceKeyResponse.getRespMsg().equalsIgnoreCase("SUCCESS")) {
+                        if (progressDialog.isShowing()) {
+                            progressDialog.dismiss();
                         }
+                        qcTestListData = qcTestListByserviceKeyResponse.getQcTestListData();
+                        if (qcTestListData.size() >= 0) {
+                            System.out.println("Everything is fine Aashish for get Qc Tested list!");
+                            setQCTestListData(qcTestListData);
+                        } else {
+                            Toast.makeText(getApplicationContext(), "Data not found!", Toast.LENGTH_SHORT).show();
+                        }
+                    } else {
+                        if (progressDialog.isShowing()) {
+                            progressDialog.dismiss();
+                        }
+                        Toast.makeText(getApplicationContext(), "Something went wrong!", Toast.LENGTH_SHORT).show();
+                    }
+                }
 
-                        @Override
-                        public void onError(Throwable e) {
-                            if (progressDialog.isShowing()) {
-                                progressDialog.dismiss();
-                            }
-                            Toast.makeText(getApplicationContext(), "Server Error!", Toast.LENGTH_SHORT).show();
-                        }
-                    });
+                @Override
+                public void onError(Throwable e) {
+                    if (progressDialog.isShowing()) {
+                        progressDialog.dismiss();
+                    }
+                    Toast.makeText(getApplicationContext(), "Server Error!", Toast.LENGTH_SHORT).show();
+                }
+            });
         } catch (Exception exp) {
             exp.getStackTrace();
             if (progressDialog.isShowing()) {
@@ -3283,107 +3276,13 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
                     }
                 }*/
 
-                if (str_checkPixel.equals("") || str_touchScreen.equals("") || str_multiTouch.equals("")
-                        || str_brightness.equals("") || str_backcamera.equals("") || str_frontCamera.equals("")
-                        || str_autoFocus.equals("") || str_backVideo.equals("") || str_frontVideo.equals("")
-                        || str_bluetooth.equals("") || str_earphone.equals("") || str_earphoneJack.equals("")
-                        || str_earphoneMic.equals("") || str_earphoneKey.equals("") || str_loudspeaker.equals("")
-                        || str_frontSpeaker.equals("") || str_audioPlayback.equals("") || str_noiseCancellation.equals("")
-                        || str_microphone.equals("") || str_flash.equals("") || str_frontFlash.equals("")
-                        || str_callSim1.equals("") || str_callSim2.equals("") || str_volteCalling.equals("")
-                        || str_wiFi.equals("") || str_internet.equals("") || str_gps.equals("") || str_signal1.equals("")
-                        || str_signal2.equals("") || str_vibrate.equals("") || str_battery.equals("")
-                        || str_internalStorage.equals("") || str_externalStorage.equals("") || str_proximity.equals("")
-                        || str_volUp.equals("") || str_volDown.equals("") || str_homekey.equals("") || str_backKey.equals("")
-                        || str_powerKey.equals("") || str_usb.equals("") || str_charging.equals("")
-                        || str_otg.equals("") || str_gyroscope.equals("") || str_screenLock.equals("")
-                        || str_biometric.equals("") || str_gravity.equals("") || str_gyroscopeGaming.equals("")
-                        || str_humidity.equals("") || str_motionDetector.equals("") || str_stepDetector.equals("")
-                        || str_stepCounter.equals("") || str_light.equals("") || str_nfc.equals("") || str_fmRadio.equals("")
-                        || str_infrared.equals("") || str_hallSensor.equals("") || str_orientation.equals("") || str_cpuPerformance.equals("")
-                ) {
+                if (str_checkPixel.equals("") || str_touchScreen.equals("") || str_multiTouch.equals("") || str_brightness.equals("") || str_backcamera.equals("") || str_frontCamera.equals("") || str_autoFocus.equals("") || str_backVideo.equals("") || str_frontVideo.equals("") || str_bluetooth.equals("") || str_earphone.equals("") || str_earphoneJack.equals("") || str_earphoneMic.equals("") || str_earphoneKey.equals("") || str_loudspeaker.equals("") || str_frontSpeaker.equals("") || str_audioPlayback.equals("") || str_noiseCancellation.equals("") || str_microphone.equals("") || str_flash.equals("") || str_frontFlash.equals("") || str_callSim1.equals("") || str_callSim2.equals("") || str_volteCalling.equals("") || str_wiFi.equals("") || str_internet.equals("") || str_gps.equals("") || str_signal1.equals("") || str_signal2.equals("") || str_vibrate.equals("") || str_battery.equals("") || str_internalStorage.equals("") || str_externalStorage.equals("") || str_proximity.equals("") || str_volUp.equals("") || str_volDown.equals("") || str_homekey.equals("") || str_backKey.equals("") || str_powerKey.equals("") || str_usb.equals("") || str_charging.equals("") || str_otg.equals("") || str_gyroscope.equals("") || str_screenLock.equals("") || str_biometric.equals("") || str_gravity.equals("") || str_gyroscopeGaming.equals("") || str_humidity.equals("") || str_motionDetector.equals("") || str_stepDetector.equals("") || str_stepCounter.equals("") || str_light.equals("") || str_nfc.equals("") || str_fmRadio.equals("") || str_infrared.equals("") || str_hallSensor.equals("") || str_orientation.equals("") || str_cpuPerformance.equals("")) {
                     txt_resultpass.setText("Test Incomplete");
                     txt_resultpass.setTextColor(getResources().getColor(R.color.black));
-                } else if (str_checkPixel.equals("0") || str_touchScreen.equals("0") || str_multiTouch.equals("0")
-                        || str_brightness.equals("0") || str_backcamera.equals("0") || str_frontCamera.equals("0")
-                        || str_autoFocus.equals("0") || str_backVideo.equals("0") || str_frontVideo.equals("0")
-                        || str_bluetooth.equals("0") || str_earphone.equals("0") || str_earphoneJack.equals("0")
-                        || str_earphoneMic.equals("0") || str_earphoneKey.equals("0") || str_loudspeaker.equals("0")
-                        || str_frontSpeaker.equals("0") || str_audioPlayback.equals("0") || str_noiseCancellation.equals("0")
-                        || str_microphone.equals("0") || str_flash.equals("0") || str_frontFlash.equals("0")
-                        || str_callSim1.equals("0") || str_callSim2.equals("0") || str_volteCalling.equals("0")
-                        || str_wiFi.equals("0") || str_internet.equals("0") || str_gps.equals("0") || str_signal1.equals("0")
-                        || str_signal2.equals("0") || str_vibrate.equals("0") || str_battery.equals("0")
-                        || str_internalStorage.equals("0") || str_externalStorage.equals("0") || str_proximity.equals("0")
-                        || str_volUp.equals("0") || str_volDown.equals("0") || str_homekey.equals("0") || str_backKey.equals("0")
-                        || str_powerKey.equals("0") || str_usb.equals("0") || str_charging.equals("0")
-                        || str_otg.equals("0") || str_gyroscope.equals("0") || str_screenLock.equals("0")
-                        || str_biometric.equals("0") || str_gravity.equals("0") || str_gyroscopeGaming.equals("0")
-                        || str_humidity.equals("0") || str_motionDetector.equals("0") || str_stepDetector.equals("0")
-                        || str_stepCounter.equals("0") || str_light.equals("0") || str_nfc.equals("0") || str_fmRadio.equals("0")
-                        || str_infrared.equals("0") || str_hallSensor.equals("0") || str_orientation.equals("0") || str_cpuPerformance.equals("0")
-                ) {
+                } else if (str_checkPixel.equals("0") || str_touchScreen.equals("0") || str_multiTouch.equals("0") || str_brightness.equals("0") || str_backcamera.equals("0") || str_frontCamera.equals("0") || str_autoFocus.equals("0") || str_backVideo.equals("0") || str_frontVideo.equals("0") || str_bluetooth.equals("0") || str_earphone.equals("0") || str_earphoneJack.equals("0") || str_earphoneMic.equals("0") || str_earphoneKey.equals("0") || str_loudspeaker.equals("0") || str_frontSpeaker.equals("0") || str_audioPlayback.equals("0") || str_noiseCancellation.equals("0") || str_microphone.equals("0") || str_flash.equals("0") || str_frontFlash.equals("0") || str_callSim1.equals("0") || str_callSim2.equals("0") || str_volteCalling.equals("0") || str_wiFi.equals("0") || str_internet.equals("0") || str_gps.equals("0") || str_signal1.equals("0") || str_signal2.equals("0") || str_vibrate.equals("0") || str_battery.equals("0") || str_internalStorage.equals("0") || str_externalStorage.equals("0") || str_proximity.equals("0") || str_volUp.equals("0") || str_volDown.equals("0") || str_homekey.equals("0") || str_backKey.equals("0") || str_powerKey.equals("0") || str_usb.equals("0") || str_charging.equals("0") || str_otg.equals("0") || str_gyroscope.equals("0") || str_screenLock.equals("0") || str_biometric.equals("0") || str_gravity.equals("0") || str_gyroscopeGaming.equals("0") || str_humidity.equals("0") || str_motionDetector.equals("0") || str_stepDetector.equals("0") || str_stepCounter.equals("0") || str_light.equals("0") || str_nfc.equals("0") || str_fmRadio.equals("0") || str_infrared.equals("0") || str_hallSensor.equals("0") || str_orientation.equals("0") || str_cpuPerformance.equals("0")) {
                     txt_resultpass.setText("Fail");
                     txt_resultpass.setTextColor(getResources().getColor(R.color.Chocolate));
-                } else if ((str_checkPixel.equals("1") || str_checkPixel.equals("-1"))
-                        && (str_touchScreen.equals("1") || str_touchScreen.equals("-1"))
-                        && (str_multiTouch.equals("1") || str_multiTouch.equals("-1"))
-                        && (str_brightness.equals("1") || str_brightness.equals("-1"))
-                        && (str_backcamera.equals("1") || str_backcamera.equals("-1"))
-                        && (str_frontCamera.equals("1") || str_frontCamera.equals("-1"))
-                        && (str_autoFocus.equals("1") || str_autoFocus.equals("-1"))
-                        && (str_backVideo.equals("1") || str_backVideo.equals("-1"))
-                        && (str_frontVideo.equals("1") || str_frontVideo.equals("-1"))
-                        && (str_bluetooth.equals("1") || str_bluetooth.equals("-1"))
-                        && (str_earphone.equals("1") || str_earphone.equals("-1"))
-                        && (str_earphoneJack.equals("1") || str_earphoneJack.equals("-1"))
-                        && (str_earphoneMic.equals("1") || str_earphoneMic.equals("-1"))
-                        && (str_earphoneKey.equals("1") || str_earphoneKey.equals("-1"))
-                        && (str_loudspeaker.equals("1") || str_loudspeaker.equals("-1"))
-                        && (str_frontSpeaker.equals("1") || str_frontSpeaker.equals("-1"))
-                        && (str_audioPlayback.equals("1") | str_audioPlayback.equals("-1"))
-                        && (str_noiseCancellation.equals("1") || str_noiseCancellation.equals("-1"))
-                        && (str_microphone.equals("1") || str_microphone.equals("-1"))
-                        && (str_flash.equals("1") || str_flash.equals("-1"))
-                        && (str_frontFlash.equals("1") || str_frontFlash.equals("-1"))
-                        && (str_callSim1.equals("1") || str_callSim1.equals("-1"))
-                        && (str_callSim2.equals("1") || str_callSim2.equals("-1"))
-                        && (str_volteCalling.equals("1") || str_volteCalling.equals("-1"))
-                        && (str_wiFi.equals("1") || str_wiFi.equals("-1"))
-                        && (str_internet.equals("1") || str_internet.equals("-1"))
-                        && (str_gps.equals("1") || str_gps.equals("-1"))
-                        && (str_signal1.equals("1") || str_signal1.equals("-1"))
-                        && (str_signal2.equals("1") || str_signal1.equals("-1"))
-                        && (str_vibrate.equals("1") || str_vibrate.equals("-1"))
-                        && (str_battery.equals("1") || str_battery.equals("-1"))
-                        && (str_internalStorage.equals("1") || str_internalStorage.equals("-1"))
-                        && (str_externalStorage.equals("1") || str_externalStorage.equals("-1"))
-                        && (str_proximity.equals("1") || str_proximity.equals("-1"))
-                        && (str_volUp.equals("1") || str_volUp.equals("-1"))
-                        && (str_volDown.equals("1") || str_volDown.equals("-1"))
-                        && (str_homekey.equals("1") || str_homekey.equals("-1"))
-                        && (str_backKey.equals("1") || str_backKey.equals("-1"))
-                        && (str_powerKey.equals("1") || str_powerKey.equals("-1"))
-                        && (str_usb.equals("1") || str_usb.equals("-1"))
-                        && (str_charging.equals("1") || str_charging.equals("-1"))
-                        && (str_otg.equals("1") || str_otg.equals("-1"))
-                        && (str_gyroscope.equals("1") || str_gyroscope.equals("-1"))
-                        && (str_screenLock.equals("1") || str_screenLock.equals("-1"))
-                        && (str_biometric.equals("1") || str_biometric.equals("-1"))
-                        && (str_gravity.equals("1") || str_gravity.equals("-1"))
-                        && (str_gyroscopeGaming.equals("1") || str_gyroscopeGaming.equals("-1"))
-                        && (str_humidity.equals("1") || str_humidity.equals("-1"))
-                        && (str_motionDetector.equals("1") || str_motionDetector.equals("-1"))
-                        && (str_stepDetector.equals("1") || str_stepDetector.equals("-1"))
-                        && (str_stepCounter.equals("1") || str_stepCounter.equals("-1"))
-                        && (str_light.equals("1") || str_light.equals("-1"))
-                        && (str_nfc.equals("1") || str_nfc.equals("-1"))
-                        && (str_fmRadio.equals("1") || str_fmRadio.equals("-1"))
-                        && (str_infrared.equals("1") || str_infrared.equals("-1"))
-                        && (str_hallSensor.equals("1") || str_hallSensor.equals("-1"))
-                        && (str_orientation.equals("1") || str_orientation.equals("-1"))
-                        && (str_cpuPerformance.equals("1") || str_cpuPerformance.equals("-1"))
-                ) {
+                } else if ((str_checkPixel.equals("1") || str_checkPixel.equals("-1")) && (str_touchScreen.equals("1") || str_touchScreen.equals("-1")) && (str_multiTouch.equals("1") || str_multiTouch.equals("-1")) && (str_brightness.equals("1") || str_brightness.equals("-1")) && (str_backcamera.equals("1") || str_backcamera.equals("-1")) && (str_frontCamera.equals("1") || str_frontCamera.equals("-1")) && (str_autoFocus.equals("1") || str_autoFocus.equals("-1")) && (str_backVideo.equals("1") || str_backVideo.equals("-1")) && (str_frontVideo.equals("1") || str_frontVideo.equals("-1")) && (str_bluetooth.equals("1") || str_bluetooth.equals("-1")) && (str_earphone.equals("1") || str_earphone.equals("-1")) && (str_earphoneJack.equals("1") || str_earphoneJack.equals("-1")) && (str_earphoneMic.equals("1") || str_earphoneMic.equals("-1")) && (str_earphoneKey.equals("1") || str_earphoneKey.equals("-1")) && (str_loudspeaker.equals("1") || str_loudspeaker.equals("-1")) && (str_frontSpeaker.equals("1") || str_frontSpeaker.equals("-1")) && (str_audioPlayback.equals("1") | str_audioPlayback.equals("-1")) && (str_noiseCancellation.equals("1") || str_noiseCancellation.equals("-1")) && (str_microphone.equals("1") || str_microphone.equals("-1")) && (str_flash.equals("1") || str_flash.equals("-1")) && (str_frontFlash.equals("1") || str_frontFlash.equals("-1")) && (str_callSim1.equals("1") || str_callSim1.equals("-1")) && (str_callSim2.equals("1") || str_callSim2.equals("-1")) && (str_volteCalling.equals("1") || str_volteCalling.equals("-1")) && (str_wiFi.equals("1") || str_wiFi.equals("-1")) && (str_internet.equals("1") || str_internet.equals("-1")) && (str_gps.equals("1") || str_gps.equals("-1")) && (str_signal1.equals("1") || str_signal1.equals("-1")) && (str_signal2.equals("1") || str_signal1.equals("-1")) && (str_vibrate.equals("1") || str_vibrate.equals("-1")) && (str_battery.equals("1") || str_battery.equals("-1")) && (str_internalStorage.equals("1") || str_internalStorage.equals("-1")) && (str_externalStorage.equals("1") || str_externalStorage.equals("-1")) && (str_proximity.equals("1") || str_proximity.equals("-1")) && (str_volUp.equals("1") || str_volUp.equals("-1")) && (str_volDown.equals("1") || str_volDown.equals("-1")) && (str_homekey.equals("1") || str_homekey.equals("-1")) && (str_backKey.equals("1") || str_backKey.equals("-1")) && (str_powerKey.equals("1") || str_powerKey.equals("-1")) && (str_usb.equals("1") || str_usb.equals("-1")) && (str_charging.equals("1") || str_charging.equals("-1")) && (str_otg.equals("1") || str_otg.equals("-1")) && (str_gyroscope.equals("1") || str_gyroscope.equals("-1")) && (str_screenLock.equals("1") || str_screenLock.equals("-1")) && (str_biometric.equals("1") || str_biometric.equals("-1")) && (str_gravity.equals("1") || str_gravity.equals("-1")) && (str_gyroscopeGaming.equals("1") || str_gyroscopeGaming.equals("-1")) && (str_humidity.equals("1") || str_humidity.equals("-1")) && (str_motionDetector.equals("1") || str_motionDetector.equals("-1")) && (str_stepDetector.equals("1") || str_stepDetector.equals("-1")) && (str_stepCounter.equals("1") || str_stepCounter.equals("-1")) && (str_light.equals("1") || str_light.equals("-1")) && (str_nfc.equals("1") || str_nfc.equals("-1")) && (str_fmRadio.equals("1") || str_fmRadio.equals("-1")) && (str_infrared.equals("1") || str_infrared.equals("-1")) && (str_hallSensor.equals("1") || str_hallSensor.equals("-1")) && (str_orientation.equals("1") || str_orientation.equals("-1")) && (str_cpuPerformance.equals("1") || str_cpuPerformance.equals("-1"))) {
                     txt_resultpass.setText("Pass");
                     txt_resultpass.setTextColor(getResources().getColor(R.color.LightGreen1));
                 }
@@ -3396,10 +3295,8 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
     @Override
     public void onClick(View view) {
         try {
-            if (aSwitch1.isChecked())
-                str_switch_status = "ON";
-            else
-                str_switch_status = "OFF";
+            if (aSwitch1.isChecked()) str_switch_status = "ON";
+            else str_switch_status = "OFF";
             if (textToSpeech.isSpeaking()) {
                 textToSpeech.stop();
             }
@@ -3936,10 +3833,8 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
     @Override
     public void onBackPressed() {
         try {
-            if (aSwitch1.isChecked())
-                str_switch_status = "ON";
-            else
-                str_switch_status = "OFF";
+            if (aSwitch1.isChecked()) str_switch_status = "ON";
+            else str_switch_status = "OFF";
             if (textToSpeech.isSpeaking()) {
                 textToSpeech.stop();
             }
@@ -3956,10 +3851,8 @@ public class AllTestDataSaveActivity extends AppCompatActivity implements View.O
 
     private void getEventsForRestestOrTestQc() {
         try {
-            if (aSwitch1.isChecked())
-                str_switch_status = "ON";
-            else
-                str_switch_status = "OFF";
+            if (aSwitch1.isChecked()) str_switch_status = "ON";
+            else str_switch_status = "OFF";
             if (textToSpeech.isSpeaking()) {
                 textToSpeech.stop();
             }

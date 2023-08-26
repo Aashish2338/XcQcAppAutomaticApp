@@ -137,7 +137,8 @@ public class ShowEmptyResultsActivity extends AppCompatActivity implements View.
 
     private String imei11, imei22, macAddress, empCode, empName, partnerID, str_workOrderId, certificatecode, diagosticreport, str_DeviceID, brand_name,
             model_name, deviceName, rear_camera_mp, front_camera_mp, screen_size, storage1, processor_core, battery_capacity, os_version,
-            serial_number, build_id, os, physicalCondition = "", Screensize = "", device_id = "", str_QCResult, dateTime = "", ram = "", grade_name = "";
+            serial_number, build_id, os, physicalCondition = "", Screensize = "", device_id = "", str_QCResult, dateTime = "", ram = "",
+            grade_name = "", testerId = "";
 
     private String str_checkPixel, str_displayDeadPixel, str_touchScreen, str_multiTouch, str_brightness, str_backcamera, str_frontCamera, str_autoFocus,
             str_backVideo, str_frontVideo, str_bluetooth, str_earphone, str_earphoneJack, str_loudspeaker, str_frontSpeaker, str_microphone, str_flash,
@@ -201,13 +202,14 @@ public class ShowEmptyResultsActivity extends AppCompatActivity implements View.
         deviceTemperature = sharedPreferences.getString("DeviceTemperature", "");
 //        deviceTemperature_int = Double.parseDouble(deviceTemperature);
         ram = sharedPreferences.getString("ram", "");
+        testerId = sharedPreferences.getString("testerId", "");
         allTest = userSession.getTestAll();
 
         empCode = userSession.getEmpCode();
         empName = userSession.getUserName();
         password = userSession.getUserPassword();
 
-        System.out.println(empCode + ", " + imei11 + ", " + model_name + ", " + str_DeviceID + ", " + brand_name);
+        System.out.println(empCode + ", " + imei11 + ", " + model_name + ", " + str_DeviceID + ", " + brand_name + ", " + testerId);
 
         if (password.equalsIgnoreCase("")) {
             loginCodeName = empName;
@@ -329,7 +331,7 @@ public class ShowEmptyResultsActivity extends AppCompatActivity implements View.
 
     private JSONObject jsonObjectResultsGrade(String certificateNumber, String ram, String date,
                                               String time, String dateTime, String qcResult,
-                                              String grade, String gradeDefinition, String userId) {
+                                              String grade, String gradeDefinition, String testerId) {
 
         JSONObject jsonMain = new JSONObject();
         try {
@@ -358,7 +360,7 @@ public class ShowEmptyResultsActivity extends AppCompatActivity implements View.
             jsonMain.put("ios_upgrade", "N/A");
             jsonMain.put("battery_health", "");
             jsonMain.put("country_lock", "");
-            jsonMain.put("tester_id", userId); // need value
+            jsonMain.put("tester_id", testerId); // need value
 
         } catch (Exception exp) {
             exp.getStackTrace();
@@ -509,7 +511,7 @@ public class ShowEmptyResultsActivity extends AppCompatActivity implements View.
                 String dateTime = getCurrentDateTime();
 
                 gradeJson = new JSONObject(jsonObjectResultsGrade(serviceKey, ram, date, time, dateTime,
-                        "", grade_name, physicalCondition, empCode).toString());
+                        "", grade_name, physicalCondition, testerId).toString());
 
                 param2.put("ObjWarrantyBazzarResult_childmbgrade", gradeJson);
 
@@ -583,7 +585,7 @@ public class ShowEmptyResultsActivity extends AppCompatActivity implements View.
                 String dateTime = getCurrentDateTime();
 
                 gradeJson = new JSONObject(jsonObjectResultsGrade(serviceKey, ram, date, time, dateTime,
-                        "", grade_name, physicalCondition, empCode).toString());
+                        "", grade_name, physicalCondition, testerId).toString());
 
                 param2.put("ObjWarrantyBazzarResult_childmbgrade", gradeJson);
 

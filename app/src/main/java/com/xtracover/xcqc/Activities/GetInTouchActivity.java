@@ -901,7 +901,8 @@ public class GetInTouchActivity extends AppCompatActivity {
                             camera.release();
                         }
 //                        Intent intent = new Intent(mContext, GradingActivity.class); // New Flow with grading question
-                        Intent intent = new Intent(mContext, TermsConditionActivity.class); //Old Flow without grading question
+//                        Intent intent = new Intent(mContext, TermsConditionActivity.class); //Old Flow without grading question
+                        Intent intent = new Intent(mContext, AddTesterNameActivity.class); //Old Flow without grading question
                         if (Build.VERSION.SDK_INT >= 29) {
                             if (str_imei_1.equals("")) {
                                 str_imei1 = txt_imei1.getText().toString();

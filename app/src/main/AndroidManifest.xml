@@ -3,15 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.xtracover.xcqc">
 
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="33" />
+
     <queries>
         <intent>
             <action android:name="android.speech.RecognitionService" />
         </intent>
     </queries>
-
-    <uses-sdk
-        android:minSdkVersion="21"
-        android:targetSdkVersion="33" />
 
     <supports-screens
         android:anyDensity="true"
@@ -157,192 +157,195 @@
         tools:replace="android:allowBackup,icon,theme,label"
         tools:targetApi="m">
         <activity
-            android:name=".Activities.GradingActivity"
+            android:name="com.xtracover.xcqc.Activities.AddTesterNameActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.xtracover.xcqc.Activities.Activities.GradingActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.AllTestDataSaveActivity"
+            android:name="com.xtracover.xcqc.Activities.Activities.AllTestDataSaveActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.NfcTestActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.NfcTestActivity"
             android:exported="false"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".BatteryStressTestActivities.BatteryStartTestActivity"
+            android:name="com.xtracover.xcqc.Activities.BatteryStressTestActivities.BatteryStartTestActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".BatteryStressTestActivities.BatteryTestResultsActivity"
+            android:name="com.xtracover.xcqc.Activities.BatteryStressTestActivities.BatteryTestResultsActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".AudioVideoTestAndRetestActivities.FrontCameraTestALActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.FrontCameraTestALActivity"
             android:hardwareAccelerated="true"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".AudioVideoTestAndRetestActivities.BackCameraTestALActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.BackCameraTestALActivity"
             android:hardwareAccelerated="true"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
-        <activity android:name=".OthersTestAndRetestActivities.ImeiValidationActivity" />
+        <activity android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.ImeiValidationActivity" />
         <activity
-            android:name=".OthersTestAndRetestActivities.DeviceTemperatureActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.DeviceTemperatureActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.CpuPerformanceActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.CpuPerformanceActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.OrientationActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.OrientationActivity"
             android:launchMode="singleTask" />
         <activity
-            android:name=".OthersTestAndRetestActivities.FmRadioActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.FmRadioActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.NfcSensorActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.NfcSensorActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.GrHuMdSdScUvLsIrHasActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.GrHuMdSdScUvLsIrHasActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.BiometricTestActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.BiometricTestActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.GyroscopeGamingSensorActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.GyroscopeGamingSensorActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.OtgActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.OtgActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.UsbTestActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.UsbTestActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.ChargingTestActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.ChargingTestActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.VolumeUpDownHBPKActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.VolumeUpDownHBPKActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.ProximityActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.ProximityActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.InternalExternalStorageActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.InternalExternalStorageActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".OthersTestAndRetestActivities.BatteryActivity"
+            android:name="com.xtracover.xcqc.Activities.OthersTestAndRetestActivities.BatteryActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".NetworkTestAndRetestActivities.NetworkSignalFirstSecondActivity"
+            android:name="com.xtracover.xcqc.Activities.NetworkTestAndRetestActivities.NetworkSignalFirstSecondActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".NetworkTestAndRetestActivities.WifiInternetGpsActivity"
+            android:name="com.xtracover.xcqc.Activities.NetworkTestAndRetestActivities.WifiInternetGpsActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".AudioVideoTestAndRetestActivities.FlashFrontTorchActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.FlashFrontTorchActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".AudioVideoTestAndRetestActivities.MicrophoneActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.MicrophoneActivity"
             android:hardwareAccelerated="true"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".AudioVideoTestAndRetestActivities.AudioPlaybackActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.AudioPlaybackActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".AudioVideoTestAndRetestActivities.ReceiverActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.ReceiverActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".AudioVideoTestAndRetestActivities.LoudSpeakerActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.LoudSpeakerActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".AudioVideoTestAndRetestActivities.EarphoneJMKActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.EarphoneJMKActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".AudioVideoTestAndRetestActivities.BluetoothActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.BluetoothActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".AudioVideoTestAndRetestActivities.FrontVideoRecordingActivity"
-            android:hardwareAccelerated="true"
-            android:launchMode="singleTask"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name=".AudioVideoTestAndRetestActivities.BackVideoRecordingActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.FrontVideoRecordingActivity"
             android:hardwareAccelerated="true"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".AudioVideoTestAndRetestActivities.CameraAutoFocusActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.BackVideoRecordingActivity"
             android:hardwareAccelerated="true"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".DisplayTestAndRetestActivities.DisplayBrightnessActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name=".DisplayTestAndRetestActivities.MultiTouchTestActivity"
+            android:name="com.xtracover.xcqc.Activities.AudioVideoTestAndRetestActivities.CameraAutoFocusActivity"
             android:hardwareAccelerated="true"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".DisplayTestAndRetestActivities.DisplayAndTouchScreenActivity"
+            android:name="com.xtracover.xcqc.Activities.DisplayTestAndRetestActivities.DisplayBrightnessActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.xtracover.xcqc.Activities.DisplayTestAndRetestActivities.MultiTouchTestActivity"
             android:hardwareAccelerated="true"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".DisplayTestAndRetestActivities.DeadPixelCheckActivity"
+            android:name="com.xtracover.xcqc.Activities.DisplayTestAndRetestActivities.DisplayAndTouchScreenActivity"
+            android:hardwareAccelerated="true"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".NetworkTestAndRetestActivities.VolteCallingActivity"
+            android:name="com.xtracover.xcqc.Activities.DisplayTestAndRetestActivities.DeadPixelCheckActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".NetworkTestAndRetestActivities.CallingSimTwoActivity"
+            android:name="com.xtracover.xcqc.Activities.NetworkTestAndRetestActivities.VolteCallingActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".NetworkTestAndRetestActivities.CallingSimOneActivity"
+            android:name="com.xtracover.xcqc.Activities.NetworkTestAndRetestActivities.CallingSimTwoActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.CertificateOfTestActivity"
+            android:name="com.xtracover.xcqc.Activities.NetworkTestAndRetestActivities.CallingSimOneActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.ShowEmptyResultsActivity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name=".Activities.TermsConditionActivity"
+            android:name="com.xtracover.xcqc.Activities.Activities.CertificateOfTestActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.ImeiInstructionActivity"
+            android:name="com.xtracover.xcqc.Activities.Activities.ShowEmptyResultsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.xtracover.xcqc.Activities.Activities.TermsConditionActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.GetInTouchActivity"
+            android:name="com.xtracover.xcqc.Activities.Activities.ImeiInstructionActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.LoginActivity"
+            android:name="com.xtracover.xcqc.Activities.Activities.GetInTouchActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".SplashScreenActivity"
+            android:name="com.xtracover.xcqc.Activities.Activities.LoginActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.xtracover.xcqc.Activities.SplashScreenActivity"
             android:exported="true"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -353,7 +356,7 @@
         </activity>
 
         <service
-            android:name=".Services.ScreenCaptureService"
+            android:name="com.xtracover.xcqc.Activities.Services.ScreenCaptureService"
             android:enabled="true"
             android:exported="true"
             android:foregroundServiceType="mediaProjection"
