@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Automation Project\\XcQcApp_Automatic_Latest_24_Jul_2023\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "E:\\XctracoverAndroidProject\\XcQcAppAutomaticLatestApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Aashish Vishavkarma\\.gradle\\caches\\transforms-3\\ff5df5bcdf69debbf1e3067aa1d51dbb\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\aashi\\.gradle\\caches\\transforms-3\\ff5df5bcdf69debbf1e3067aa1d51dbb\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Aashish Vishavkarma\\.gradle\\caches\\transforms-3\\20422eeb9b0d6730d6abd9feed89680b\\transformed\\appcompat-1.4.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\aashi\\.gradle\\caches\\transforms-3\\20422eeb9b0d6730d6abd9feed89680b\\transformed\\appcompat-1.4.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
