@@ -83,7 +83,7 @@ public class TermsConditionActivity extends AppCompatActivity implements View.On
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_terms_condition);
-        setRequestedOrientation (ActivityInfo.SCREEN_ORIENTATION_LOCKED);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LOCKED);
         try {
             mContext = this;
             userSession = new UserSession(mContext);
