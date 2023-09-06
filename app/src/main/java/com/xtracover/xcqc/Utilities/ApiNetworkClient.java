@@ -22,9 +22,8 @@ public class ApiNetworkClient {
     // http://api.qutrust.com/clientdata/setsubmit
     // https://channel.xtracover.com/api/StoreApi/warrantybazzarLogindeatilpin
     // http://storetemp.xtracover.com/api/StoreApi/Getservice_key
-    // kde kre tu kde mai kru nadaniyan
 
-    //        private static final String Base_Url = "https://storetemp.xtracover.com/api/StoreApi/";
+    // private static final String Base_Url = "https://storetemp.xtracover.com/api/StoreApi/";
     // https://store.xtracover.com/api/StoreApi/Getservice_key
     private static final String Base_Url = "https://store.xtracover.com/api/StoreApi/";
     private static final String Base_UrlQutrust = "http://api.qutrust.com/clientdata/";

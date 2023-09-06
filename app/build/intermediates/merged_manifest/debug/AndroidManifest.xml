@@ -135,7 +135,6 @@
         android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_circle"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/BaseTheme"
         android:usesCleartextTraffic="true" >
         <activity

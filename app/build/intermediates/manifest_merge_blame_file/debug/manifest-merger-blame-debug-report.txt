@@ -319,475 +319,474 @@
 136-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:153:9-55
 137        android:supportsRtl="true"
 137-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:154:9-35
-138        android:testOnly="true"
-139        android:theme="@style/BaseTheme"
-139-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:155:9-41
-140        android:usesCleartextTraffic="true" >
-140-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:156:9-44
-141        <activity
-141-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:159:9-161:40
-142            android:name="com.xtracover.xcqc.Activities.AddTesterNameActivity"
-142-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:160:13-61
-143            android:exported="false" />
-143-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:161:13-37
-144        <activity
-144-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:162:9-165:52
-145            android:name="com.xtracover.xcqc.Activities.GradingActivity"
-145-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:163:13-55
-146            android:exported="false"
-146-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:164:13-37
-147            android:screenOrientation="portrait" />
-147-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:165:13-49
-148        <activity
-148-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:166:9-168:52
-149            android:name="com.xtracover.xcqc.Activities.AllTestDataSaveActivity"
-149-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:167:13-63
-150            android:screenOrientation="portrait" />
-150-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:168:13-49
-151        <activity
-151-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:169:9-173:52
-152            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.NfcTestActivity"
-152-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:170:13-74
-153            android:exported="false"
-153-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:171:13-37
-154            android:launchMode="singleTask"
-154-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:172:13-44
-155            android:screenOrientation="portrait" />
-155-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:173:13-49
-156        <activity
-156-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:174:9-177:52
-157            android:name="com.xtracover.xcqc.BatteryStressTestActivities.BatteryStartTestActivity"
-157-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:175:13-81
-158            android:launchMode="singleTask"
-158-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:176:13-44
-159            android:screenOrientation="portrait" />
-159-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:177:13-49
-160        <activity
-160-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:178:9-181:52
-161            android:name="com.xtracover.xcqc.BatteryStressTestActivities.BatteryTestResultsActivity"
-161-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:179:13-83
-162            android:launchMode="singleTask"
-162-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:180:13-44
-163            android:screenOrientation="portrait" />
-163-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:181:13-49
-164        <activity
-164-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:182:9-186:52
-165            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FrontCameraTestALActivity"
-165-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:183:13-88
-166            android:hardwareAccelerated="true"
-166-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:184:13-47
-167            android:launchMode="singleTask"
-167-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:185:13-44
-168            android:screenOrientation="portrait" />
-168-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:186:13-49
-169        <activity
-169-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:187:9-191:52
-170            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BackCameraTestALActivity"
-170-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:188:13-87
-171            android:hardwareAccelerated="true"
-171-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:189:13-47
-172            android:launchMode="singleTask"
-172-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:190:13-44
-173            android:screenOrientation="portrait" />
-173-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:191:13-49
-174        <activity android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.ImeiValidationActivity" />
-174-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:192:9-90
-174-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:192:19-87
-175        <activity
-175-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:193:9-196:52
-176            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.DeviceTemperatureActivity"
-176-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:194:13-84
-177            android:launchMode="singleTask"
-177-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:195:13-44
-178            android:screenOrientation="portrait" />
-178-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:196:13-49
-179        <activity
-179-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:197:9-200:52
-180            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.CpuPerformanceActivity"
-180-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:198:13-81
-181            android:launchMode="singleTask"
-181-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:199:13-44
-182            android:screenOrientation="portrait" />
-182-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:200:13-49
-183        <activity
-183-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:201:9-203:47
-184            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.OrientationActivity"
-184-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:202:13-78
-185            android:launchMode="singleTask" />
-185-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:203:13-44
-186        <activity
-186-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:204:9-207:52
-187            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.FmRadioActivity"
-187-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:205:13-74
-188            android:launchMode="singleTask"
-188-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:206:13-44
-189            android:screenOrientation="portrait" />
-189-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:207:13-49
-190        <activity
-190-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:208:9-211:52
-191            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.NfcSensorActivity"
-191-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:209:13-76
-192            android:launchMode="singleTask"
-192-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:210:13-44
-193            android:screenOrientation="portrait" />
-193-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:211:13-49
-194        <activity
-194-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:212:9-214:52
-195            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.GrHuMdSdScUvLsIrHasActivity"
-195-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:213:13-86
-196            android:screenOrientation="portrait" />
-196-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:214:13-49
-197        <activity
-197-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:215:9-218:52
-198            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.BiometricTestActivity"
-198-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:216:13-80
-199            android:launchMode="singleTask"
-199-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:217:13-44
-200            android:screenOrientation="portrait" />
-200-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:218:13-49
-201        <activity
-201-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:219:9-221:52
-202            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.GyroscopeGamingSensorActivity"
-202-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:220:13-88
-203            android:screenOrientation="portrait" />
-203-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:221:13-49
-204        <activity
-204-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:222:9-225:52
-205            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.OtgActivity"
-205-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:223:13-70
-206            android:launchMode="singleTask"
-206-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:224:13-44
-207            android:screenOrientation="portrait" />
-207-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:225:13-49
-208        <activity
-208-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:226:9-229:52
-209            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.UsbTestActivity"
-209-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:227:13-74
-210            android:launchMode="singleTask"
-210-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:228:13-44
-211            android:screenOrientation="portrait" />
-211-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:229:13-49
-212        <activity
-212-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:230:9-233:52
-213            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.ChargingTestActivity"
-213-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:231:13-79
-214            android:launchMode="singleTask"
-214-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:232:13-44
-215            android:screenOrientation="portrait" />
-215-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:233:13-49
-216        <activity
-216-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:234:9-236:52
-217            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.VolumeUpDownHBPKActivity"
-217-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:235:13-83
-218            android:screenOrientation="portrait" />
-218-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:236:13-49
-219        <activity
-219-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:237:9-240:52
-220            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.ProximityActivity"
-220-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:238:13-76
-221            android:launchMode="singleTask"
-221-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:239:13-44
-222            android:screenOrientation="portrait" />
-222-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:240:13-49
-223        <activity
-223-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:241:9-243:52
-224            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.InternalExternalStorageActivity"
-224-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:242:13-90
-225            android:screenOrientation="portrait" />
-225-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:243:13-49
-226        <activity
-226-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:244:9-247:52
-227            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.BatteryActivity"
-227-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:245:13-74
-228            android:launchMode="singleTask"
-228-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:246:13-44
-229            android:screenOrientation="portrait" />
-229-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:247:13-49
-230        <activity
-230-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:248:9-250:52
-231            android:name="com.xtracover.xcqc.NetworkTestAndRetestActivities.NetworkSignalFirstSecondActivity"
-231-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:249:13-92
-232            android:screenOrientation="portrait" />
-232-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:250:13-49
-233        <activity
-233-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:251:9-253:52
-234            android:name="com.xtracover.xcqc.NetworkTestAndRetestActivities.WifiInternetGpsActivity"
-234-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:252:13-83
-235            android:screenOrientation="portrait" />
-235-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:253:13-49
-236        <activity
-236-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:254:9-256:52
-237            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FlashFrontTorchActivity"
-237-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:255:13-86
-238            android:screenOrientation="portrait" />
-238-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:256:13-49
-239        <activity
-239-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:257:9-260:52
-240            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.MicrophoneActivity"
-240-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:258:13-81
-241            android:hardwareAccelerated="true"
-241-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:259:13-47
-242            android:screenOrientation="portrait" />
-242-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:260:13-49
-243        <activity
-243-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:261:9-264:52
-244            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.AudioPlaybackActivity"
-244-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:262:13-84
-245            android:launchMode="singleTask"
-245-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:263:13-44
-246            android:screenOrientation="portrait" />
-246-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:264:13-49
-247        <activity
-247-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:265:9-268:52
-248            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.ReceiverActivity"
-248-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:266:13-79
-249            android:launchMode="singleTask"
-249-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:267:13-44
-250            android:screenOrientation="portrait" />
-250-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:268:13-49
-251        <activity
-251-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:269:9-272:52
-252            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.LoudSpeakerActivity"
-252-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:270:13-82
-253            android:launchMode="singleTask"
-253-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:271:13-44
-254            android:screenOrientation="portrait" />
-254-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:272:13-49
-255        <activity
-255-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:273:9-275:52
-256            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.EarphoneJMKActivity"
-256-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:274:13-82
-257            android:screenOrientation="portrait" />
-257-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:275:13-49
-258        <activity
-258-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:276:9-278:52
-259            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BluetoothActivity"
-259-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:277:13-80
-260            android:screenOrientation="portrait" />
-260-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:278:13-49
-261        <activity
-261-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:279:9-283:52
-262            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FrontVideoRecordingActivity"
-262-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:280:13-90
-263            android:hardwareAccelerated="true"
-263-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:281:13-47
-264            android:launchMode="singleTask"
-264-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:282:13-44
-265            android:screenOrientation="portrait" />
-265-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:283:13-49
-266        <activity
-266-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:284:9-288:52
-267            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BackVideoRecordingActivity"
-267-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:285:13-89
-268            android:hardwareAccelerated="true"
-268-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:286:13-47
-269            android:launchMode="singleTask"
-269-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:287:13-44
-270            android:screenOrientation="portrait" />
-270-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:288:13-49
-271        <activity
-271-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:289:9-293:52
-272            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.CameraAutoFocusActivity"
-272-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:290:13-86
-273            android:hardwareAccelerated="true"
-273-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:291:13-47
-274            android:launchMode="singleTask"
-274-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:292:13-44
-275            android:screenOrientation="portrait" />
-275-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:293:13-49
-276        <activity
-276-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:294:9-297:52
-277            android:name="com.xtracover.xcqc.DisplayTestAndRetestActivities.DisplayBrightnessActivity"
-277-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:295:13-85
-278            android:launchMode="singleTask"
-278-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:296:13-44
-279            android:screenOrientation="portrait" />
-279-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:297:13-49
-280        <activity
-280-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:298:9-302:52
-281            android:name="com.xtracover.xcqc.DisplayTestAndRetestActivities.MultiTouchTestActivity"
-281-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:299:13-82
-282            android:hardwareAccelerated="true"
-282-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:300:13-47
-283            android:launchMode="singleTask"
-283-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:301:13-44
-284            android:screenOrientation="portrait" />
-284-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:302:13-49
-285        <activity
-285-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:303:9-307:52
-286            android:name="com.xtracover.xcqc.DisplayTestAndRetestActivities.DisplayAndTouchScreenActivity"
-286-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:304:13-89
-287            android:hardwareAccelerated="true"
-287-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:305:13-47
-288            android:launchMode="singleTask"
-288-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:306:13-44
-289            android:screenOrientation="portrait" />
-289-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:307:13-49
-290        <activity
-290-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:308:9-311:52
-291            android:name="com.xtracover.xcqc.DisplayTestAndRetestActivities.DeadPixelCheckActivity"
-291-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:309:13-82
-292            android:launchMode="singleTask"
-292-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:310:13-44
-293            android:screenOrientation="portrait" />
-293-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:311:13-49
-294        <activity
-294-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:312:9-315:52
-295            android:name="com.xtracover.xcqc.NetworkTestAndRetestActivities.VolteCallingActivity"
-295-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:313:13-80
-296            android:launchMode="singleTask"
-296-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:314:13-44
-297            android:screenOrientation="portrait" />
-297-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:315:13-49
-298        <activity
-298-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:316:9-319:52
-299            android:name="com.xtracover.xcqc.NetworkTestAndRetestActivities.CallingSimTwoActivity"
-299-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:317:13-81
-300            android:launchMode="singleTask"
-300-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:318:13-44
-301            android:screenOrientation="portrait" />
-301-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:319:13-49
-302        <activity
-302-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:320:9-323:52
-303            android:name="com.xtracover.xcqc.NetworkTestAndRetestActivities.CallingSimOneActivity"
-303-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:321:13-81
-304            android:launchMode="singleTask"
-304-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:322:13-44
-305            android:screenOrientation="portrait" />
-305-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:323:13-49
-306        <activity
-306-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:324:9-327:52
-307            android:name="com.xtracover.xcqc.Activities.CertificateOfTestActivity"
-307-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:325:13-65
-308            android:launchMode="singleTask"
-308-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:326:13-44
-309            android:screenOrientation="portrait" />
-309-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:327:13-49
-310        <activity
-310-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:328:9-330:52
-311            android:name="com.xtracover.xcqc.Activities.ShowEmptyResultsActivity"
-311-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:329:13-64
-312            android:screenOrientation="portrait" />
-312-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:330:13-49
-313        <activity
-313-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:331:9-334:52
-314            android:name="com.xtracover.xcqc.Activities.TermsConditionActivity"
-314-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:332:13-62
-315            android:launchMode="singleTask"
-315-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:333:13-44
-316            android:screenOrientation="portrait" />
-316-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:334:13-49
-317        <activity
-317-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:335:9-338:52
-318            android:name="com.xtracover.xcqc.Activities.ImeiInstructionActivity"
-318-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:336:13-63
-319            android:launchMode="singleTask"
-319-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:337:13-44
-320            android:screenOrientation="portrait" />
-320-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:338:13-49
-321        <activity
-321-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:339:9-342:52
-322            android:name="com.xtracover.xcqc.Activities.GetInTouchActivity"
-322-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:340:13-58
-323            android:launchMode="singleTask"
-323-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:341:13-44
-324            android:screenOrientation="portrait" />
-324-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:342:13-49
-325        <activity
-325-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:343:9-346:52
-326            android:name="com.xtracover.xcqc.Activities.LoginActivity"
-326-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:344:13-53
-327            android:launchMode="singleTask"
-327-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:345:13-44
-328            android:screenOrientation="portrait" />
-328-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:346:13-49
-329        <activity
-329-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:347:9-356:20
-330            android:name="com.xtracover.xcqc.SplashScreenActivity"
-330-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:348:13-49
-331            android:exported="true"
-331-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:349:13-36
-332            android:screenOrientation="portrait" >
-332-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:350:13-49
-333            <intent-filter>
-333-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:351:13-355:29
-334                <action android:name="android.intent.action.MAIN" />
-334-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:352:17-69
-334-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:352:25-66
-335
-336                <category android:name="android.intent.category.LAUNCHER" />
-336-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:354:17-77
-336-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:354:27-74
-337            </intent-filter>
-338        </activity>
-339
-340        <service
-340-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:358:9-364:35
-341            android:name="com.xtracover.xcqc.Services.ScreenCaptureService"
-341-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:359:13-58
-342            android:enabled="true"
-342-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:360:13-35
-343            android:exported="true"
-343-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:361:13-36
-344            android:foregroundServiceType="mediaProjection"
-344-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:362:13-60
-345            android:stopWithTask="true" />
-345-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:363:13-40
-346
-347        <provider
-348            android:name="androidx.core.content.FileProvider"
-348-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:367:13-62
-349            android:authorities="com.xtracover.xcqc.fileprovider"
-349-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:368:13-64
-350            android:exported="false"
-350-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:369:13-37
-351            android:grantUriPermissions="true" >
-351-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:370:13-47
-352            <meta-data
-352-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:371:13-373:58
-353                android:name="android.support.FILE_PROVIDER_PATHS"
-353-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:372:17-67
-354                android:resource="@xml/provider_paths" />
-354-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:373:17-55
-355        </provider>
-356
-357        <activity
-357-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
-358            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-358-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
-359            android:exported="false"
-359-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
-360            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-360-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
-361
-362        <meta-data
-362-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
-363            android:name="com.google.android.gms.version"
-363-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
-364            android:value="@integer/google_play_services_version" />
-364-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
-365
-366        <provider
-366-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-367            android:name="androidx.startup.InitializationProvider"
-367-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-368            android:authorities="com.xtracover.xcqc.androidx-startup"
-368-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-369            android:exported="false" >
-369-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-370            <meta-data
-370-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-371                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-371-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-372                android:value="androidx.startup" />
-372-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-373            <meta-data
-373-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aashi\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-374                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-374-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aashi\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-375                android:value="androidx.startup" />
-375-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aashi\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-376        </provider>
-377    </application>
-378
-379</manifest>
+138        android:theme="@style/BaseTheme"
+138-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:155:9-41
+139        android:usesCleartextTraffic="true" >
+139-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:156:9-44
+140        <activity
+140-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:159:9-161:40
+141            android:name="com.xtracover.xcqc.Activities.AddTesterNameActivity"
+141-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:160:13-61
+142            android:exported="false" />
+142-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:161:13-37
+143        <activity
+143-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:162:9-165:52
+144            android:name="com.xtracover.xcqc.Activities.GradingActivity"
+144-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:163:13-55
+145            android:exported="false"
+145-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:164:13-37
+146            android:screenOrientation="portrait" />
+146-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:165:13-49
+147        <activity
+147-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:166:9-168:52
+148            android:name="com.xtracover.xcqc.Activities.AllTestDataSaveActivity"
+148-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:167:13-63
+149            android:screenOrientation="portrait" />
+149-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:168:13-49
+150        <activity
+150-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:169:9-173:52
+151            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.NfcTestActivity"
+151-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:170:13-74
+152            android:exported="false"
+152-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:171:13-37
+153            android:launchMode="singleTask"
+153-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:172:13-44
+154            android:screenOrientation="portrait" />
+154-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:173:13-49
+155        <activity
+155-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:174:9-177:52
+156            android:name="com.xtracover.xcqc.BatteryStressTestActivities.BatteryStartTestActivity"
+156-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:175:13-81
+157            android:launchMode="singleTask"
+157-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:176:13-44
+158            android:screenOrientation="portrait" />
+158-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:177:13-49
+159        <activity
+159-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:178:9-181:52
+160            android:name="com.xtracover.xcqc.BatteryStressTestActivities.BatteryTestResultsActivity"
+160-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:179:13-83
+161            android:launchMode="singleTask"
+161-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:180:13-44
+162            android:screenOrientation="portrait" />
+162-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:181:13-49
+163        <activity
+163-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:182:9-186:52
+164            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FrontCameraTestALActivity"
+164-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:183:13-88
+165            android:hardwareAccelerated="true"
+165-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:184:13-47
+166            android:launchMode="singleTask"
+166-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:185:13-44
+167            android:screenOrientation="portrait" />
+167-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:186:13-49
+168        <activity
+168-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:187:9-191:52
+169            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BackCameraTestALActivity"
+169-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:188:13-87
+170            android:hardwareAccelerated="true"
+170-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:189:13-47
+171            android:launchMode="singleTask"
+171-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:190:13-44
+172            android:screenOrientation="portrait" />
+172-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:191:13-49
+173        <activity android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.ImeiValidationActivity" />
+173-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:192:9-90
+173-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:192:19-87
+174        <activity
+174-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:193:9-196:52
+175            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.DeviceTemperatureActivity"
+175-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:194:13-84
+176            android:launchMode="singleTask"
+176-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:195:13-44
+177            android:screenOrientation="portrait" />
+177-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:196:13-49
+178        <activity
+178-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:197:9-200:52
+179            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.CpuPerformanceActivity"
+179-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:198:13-81
+180            android:launchMode="singleTask"
+180-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:199:13-44
+181            android:screenOrientation="portrait" />
+181-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:200:13-49
+182        <activity
+182-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:201:9-203:47
+183            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.OrientationActivity"
+183-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:202:13-78
+184            android:launchMode="singleTask" />
+184-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:203:13-44
+185        <activity
+185-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:204:9-207:52
+186            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.FmRadioActivity"
+186-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:205:13-74
+187            android:launchMode="singleTask"
+187-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:206:13-44
+188            android:screenOrientation="portrait" />
+188-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:207:13-49
+189        <activity
+189-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:208:9-211:52
+190            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.NfcSensorActivity"
+190-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:209:13-76
+191            android:launchMode="singleTask"
+191-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:210:13-44
+192            android:screenOrientation="portrait" />
+192-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:211:13-49
+193        <activity
+193-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:212:9-214:52
+194            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.GrHuMdSdScUvLsIrHasActivity"
+194-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:213:13-86
+195            android:screenOrientation="portrait" />
+195-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:214:13-49
+196        <activity
+196-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:215:9-218:52
+197            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.BiometricTestActivity"
+197-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:216:13-80
+198            android:launchMode="singleTask"
+198-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:217:13-44
+199            android:screenOrientation="portrait" />
+199-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:218:13-49
+200        <activity
+200-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:219:9-221:52
+201            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.GyroscopeGamingSensorActivity"
+201-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:220:13-88
+202            android:screenOrientation="portrait" />
+202-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:221:13-49
+203        <activity
+203-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:222:9-225:52
+204            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.OtgActivity"
+204-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:223:13-70
+205            android:launchMode="singleTask"
+205-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:224:13-44
+206            android:screenOrientation="portrait" />
+206-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:225:13-49
+207        <activity
+207-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:226:9-229:52
+208            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.UsbTestActivity"
+208-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:227:13-74
+209            android:launchMode="singleTask"
+209-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:228:13-44
+210            android:screenOrientation="portrait" />
+210-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:229:13-49
+211        <activity
+211-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:230:9-233:52
+212            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.ChargingTestActivity"
+212-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:231:13-79
+213            android:launchMode="singleTask"
+213-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:232:13-44
+214            android:screenOrientation="portrait" />
+214-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:233:13-49
+215        <activity
+215-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:234:9-236:52
+216            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.VolumeUpDownHBPKActivity"
+216-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:235:13-83
+217            android:screenOrientation="portrait" />
+217-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:236:13-49
+218        <activity
+218-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:237:9-240:52
+219            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.ProximityActivity"
+219-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:238:13-76
+220            android:launchMode="singleTask"
+220-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:239:13-44
+221            android:screenOrientation="portrait" />
+221-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:240:13-49
+222        <activity
+222-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:241:9-243:52
+223            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.InternalExternalStorageActivity"
+223-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:242:13-90
+224            android:screenOrientation="portrait" />
+224-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:243:13-49
+225        <activity
+225-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:244:9-247:52
+226            android:name="com.xtracover.xcqc.OthersTestAndRetestActivities.BatteryActivity"
+226-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:245:13-74
+227            android:launchMode="singleTask"
+227-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:246:13-44
+228            android:screenOrientation="portrait" />
+228-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:247:13-49
+229        <activity
+229-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:248:9-250:52
+230            android:name="com.xtracover.xcqc.NetworkTestAndRetestActivities.NetworkSignalFirstSecondActivity"
+230-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:249:13-92
+231            android:screenOrientation="portrait" />
+231-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:250:13-49
+232        <activity
+232-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:251:9-253:52
+233            android:name="com.xtracover.xcqc.NetworkTestAndRetestActivities.WifiInternetGpsActivity"
+233-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:252:13-83
+234            android:screenOrientation="portrait" />
+234-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:253:13-49
+235        <activity
+235-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:254:9-256:52
+236            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FlashFrontTorchActivity"
+236-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:255:13-86
+237            android:screenOrientation="portrait" />
+237-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:256:13-49
+238        <activity
+238-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:257:9-260:52
+239            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.MicrophoneActivity"
+239-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:258:13-81
+240            android:hardwareAccelerated="true"
+240-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:259:13-47
+241            android:screenOrientation="portrait" />
+241-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:260:13-49
+242        <activity
+242-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:261:9-264:52
+243            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.AudioPlaybackActivity"
+243-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:262:13-84
+244            android:launchMode="singleTask"
+244-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:263:13-44
+245            android:screenOrientation="portrait" />
+245-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:264:13-49
+246        <activity
+246-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:265:9-268:52
+247            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.ReceiverActivity"
+247-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:266:13-79
+248            android:launchMode="singleTask"
+248-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:267:13-44
+249            android:screenOrientation="portrait" />
+249-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:268:13-49
+250        <activity
+250-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:269:9-272:52
+251            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.LoudSpeakerActivity"
+251-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:270:13-82
+252            android:launchMode="singleTask"
+252-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:271:13-44
+253            android:screenOrientation="portrait" />
+253-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:272:13-49
+254        <activity
+254-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:273:9-275:52
+255            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.EarphoneJMKActivity"
+255-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:274:13-82
+256            android:screenOrientation="portrait" />
+256-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:275:13-49
+257        <activity
+257-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:276:9-278:52
+258            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BluetoothActivity"
+258-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:277:13-80
+259            android:screenOrientation="portrait" />
+259-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:278:13-49
+260        <activity
+260-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:279:9-283:52
+261            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.FrontVideoRecordingActivity"
+261-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:280:13-90
+262            android:hardwareAccelerated="true"
+262-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:281:13-47
+263            android:launchMode="singleTask"
+263-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:282:13-44
+264            android:screenOrientation="portrait" />
+264-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:283:13-49
+265        <activity
+265-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:284:9-288:52
+266            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.BackVideoRecordingActivity"
+266-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:285:13-89
+267            android:hardwareAccelerated="true"
+267-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:286:13-47
+268            android:launchMode="singleTask"
+268-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:287:13-44
+269            android:screenOrientation="portrait" />
+269-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:288:13-49
+270        <activity
+270-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:289:9-293:52
+271            android:name="com.xtracover.xcqc.AudioVideoTestAndRetestActivities.CameraAutoFocusActivity"
+271-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:290:13-86
+272            android:hardwareAccelerated="true"
+272-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:291:13-47
+273            android:launchMode="singleTask"
+273-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:292:13-44
+274            android:screenOrientation="portrait" />
+274-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:293:13-49
+275        <activity
+275-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:294:9-297:52
+276            android:name="com.xtracover.xcqc.DisplayTestAndRetestActivities.DisplayBrightnessActivity"
+276-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:295:13-85
+277            android:launchMode="singleTask"
+277-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:296:13-44
+278            android:screenOrientation="portrait" />
+278-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:297:13-49
+279        <activity
+279-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:298:9-302:52
+280            android:name="com.xtracover.xcqc.DisplayTestAndRetestActivities.MultiTouchTestActivity"
+280-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:299:13-82
+281            android:hardwareAccelerated="true"
+281-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:300:13-47
+282            android:launchMode="singleTask"
+282-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:301:13-44
+283            android:screenOrientation="portrait" />
+283-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:302:13-49
+284        <activity
+284-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:303:9-307:52
+285            android:name="com.xtracover.xcqc.DisplayTestAndRetestActivities.DisplayAndTouchScreenActivity"
+285-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:304:13-89
+286            android:hardwareAccelerated="true"
+286-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:305:13-47
+287            android:launchMode="singleTask"
+287-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:306:13-44
+288            android:screenOrientation="portrait" />
+288-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:307:13-49
+289        <activity
+289-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:308:9-311:52
+290            android:name="com.xtracover.xcqc.DisplayTestAndRetestActivities.DeadPixelCheckActivity"
+290-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:309:13-82
+291            android:launchMode="singleTask"
+291-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:310:13-44
+292            android:screenOrientation="portrait" />
+292-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:311:13-49
+293        <activity
+293-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:312:9-315:52
+294            android:name="com.xtracover.xcqc.NetworkTestAndRetestActivities.VolteCallingActivity"
+294-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:313:13-80
+295            android:launchMode="singleTask"
+295-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:314:13-44
+296            android:screenOrientation="portrait" />
+296-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:315:13-49
+297        <activity
+297-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:316:9-319:52
+298            android:name="com.xtracover.xcqc.NetworkTestAndRetestActivities.CallingSimTwoActivity"
+298-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:317:13-81
+299            android:launchMode="singleTask"
+299-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:318:13-44
+300            android:screenOrientation="portrait" />
+300-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:319:13-49
+301        <activity
+301-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:320:9-323:52
+302            android:name="com.xtracover.xcqc.NetworkTestAndRetestActivities.CallingSimOneActivity"
+302-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:321:13-81
+303            android:launchMode="singleTask"
+303-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:322:13-44
+304            android:screenOrientation="portrait" />
+304-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:323:13-49
+305        <activity
+305-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:324:9-327:52
+306            android:name="com.xtracover.xcqc.Activities.CertificateOfTestActivity"
+306-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:325:13-65
+307            android:launchMode="singleTask"
+307-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:326:13-44
+308            android:screenOrientation="portrait" />
+308-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:327:13-49
+309        <activity
+309-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:328:9-330:52
+310            android:name="com.xtracover.xcqc.Activities.ShowEmptyResultsActivity"
+310-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:329:13-64
+311            android:screenOrientation="portrait" />
+311-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:330:13-49
+312        <activity
+312-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:331:9-334:52
+313            android:name="com.xtracover.xcqc.Activities.TermsConditionActivity"
+313-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:332:13-62
+314            android:launchMode="singleTask"
+314-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:333:13-44
+315            android:screenOrientation="portrait" />
+315-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:334:13-49
+316        <activity
+316-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:335:9-338:52
+317            android:name="com.xtracover.xcqc.Activities.ImeiInstructionActivity"
+317-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:336:13-63
+318            android:launchMode="singleTask"
+318-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:337:13-44
+319            android:screenOrientation="portrait" />
+319-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:338:13-49
+320        <activity
+320-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:339:9-342:52
+321            android:name="com.xtracover.xcqc.Activities.GetInTouchActivity"
+321-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:340:13-58
+322            android:launchMode="singleTask"
+322-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:341:13-44
+323            android:screenOrientation="portrait" />
+323-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:342:13-49
+324        <activity
+324-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:343:9-346:52
+325            android:name="com.xtracover.xcqc.Activities.LoginActivity"
+325-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:344:13-53
+326            android:launchMode="singleTask"
+326-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:345:13-44
+327            android:screenOrientation="portrait" />
+327-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:346:13-49
+328        <activity
+328-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:347:9-356:20
+329            android:name="com.xtracover.xcqc.SplashScreenActivity"
+329-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:348:13-49
+330            android:exported="true"
+330-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:349:13-36
+331            android:screenOrientation="portrait" >
+331-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:350:13-49
+332            <intent-filter>
+332-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:351:13-355:29
+333                <action android:name="android.intent.action.MAIN" />
+333-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:352:17-69
+333-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:352:25-66
+334
+335                <category android:name="android.intent.category.LAUNCHER" />
+335-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:354:17-77
+335-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:354:27-74
+336            </intent-filter>
+337        </activity>
+338
+339        <service
+339-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:358:9-364:35
+340            android:name="com.xtracover.xcqc.Services.ScreenCaptureService"
+340-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:359:13-58
+341            android:enabled="true"
+341-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:360:13-35
+342            android:exported="true"
+342-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:361:13-36
+343            android:foregroundServiceType="mediaProjection"
+343-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:362:13-60
+344            android:stopWithTask="true" />
+344-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:363:13-40
+345
+346        <provider
+347            android:name="androidx.core.content.FileProvider"
+347-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:367:13-62
+348            android:authorities="com.xtracover.xcqc.fileprovider"
+348-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:368:13-64
+349            android:exported="false"
+349-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:369:13-37
+350            android:grantUriPermissions="true" >
+350-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:370:13-47
+351            <meta-data
+351-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:371:13-373:58
+352                android:name="android.support.FILE_PROVIDER_PATHS"
+352-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:372:17-67
+353                android:resource="@xml/provider_paths" />
+353-->E:\XctracoverAndroidProject\XcQcAppAutomaticLatestApp\app\src\main\AndroidManifest.xml:373:17-55
+354        </provider>
+355
+356        <activity
+356-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+357            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+357-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+358            android:exported="false"
+358-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+359            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+359-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\5f1eb21e2da696d4836ffedaee3c9880\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+360
+361        <meta-data
+361-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+362            android:name="com.google.android.gms.version"
+362-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+363            android:value="@integer/google_play_services_version" />
+363-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\aashi\.gradle\caches\transforms-3\380c532d0cc070b7845f1fda58a8eb9a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+364
+365        <provider
+365-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+366            android:name="androidx.startup.InitializationProvider"
+366-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+367            android:authorities="com.xtracover.xcqc.androidx-startup"
+367-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+368            android:exported="false" >
+368-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+369            <meta-data
+369-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+370                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+370-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+371                android:value="androidx.startup" />
+371-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aashi\.gradle\caches\transforms-3\b9b136e7040d50ef97fac8b887254660\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+372            <meta-data
+372-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aashi\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+373                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+373-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aashi\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+374                android:value="androidx.startup" />
+374-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aashi\.gradle\caches\transforms-3\2fda1ef4a376de495fc302fd0d62eb5a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+375        </provider>
+376    </application>
+377
+378</manifest>
